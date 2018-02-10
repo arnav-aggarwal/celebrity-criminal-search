@@ -2,7 +2,6 @@ const merge = require('webpack-merge');
 const path = require('path');
 const webpack = require('webpack');
 
-
 const common = {
 	entry: path.join(__dirname, 'app'),
 	output: {
