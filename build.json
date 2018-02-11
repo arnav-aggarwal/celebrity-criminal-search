@@ -1,0 +1,11 @@
+{
+  "android": {
+    "release": {
+      "keystore": "./celeb-crime-finder.jks",
+      "storePassword": "123456",
+      "password" : "654321",
+	  "alias": "LOLOKEY",
+      "keystoreType": ""
+    }
+  }
+}

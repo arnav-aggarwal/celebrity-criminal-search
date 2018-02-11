@@ -3,6 +3,16 @@ import ReactDOM from 'react-dom';
 import Home from './components/home';
 import './less/base.less';
 
+// if(window.FirebasePlugin) {
+// 	window.FirebasePlugin.onNotificationOpen(notification => {
+// 		notification = {
+// 			content: notification.content,
+// 			title: notification.title
+// 		};
+// 		console.log()
+// 	});
+// }
+
 ReactDOM.render(
 	<div id="mobile-container">
 		<div id="logo">CelebCrimes</div>
