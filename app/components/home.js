@@ -47,7 +47,7 @@ export default class Home extends Component {
     render() {
         return (
             <div>
-                <div id="logo" onClick={this.backToHome}>CelebCrimes</div>
+                <div id="logo" onClick={this.backToHome}>Celeb Crime Finder</div>
                 {this.state.showCrimeDetails ?
                     <React.Fragment>
                         <div id="content">
