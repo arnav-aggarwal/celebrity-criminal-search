@@ -47,56 +47,62 @@ export default class Home extends Component {
     render() {
         return (
             <div>
+                <div id="logo" onClick={this.backToHome}>CelebCrimes</div>
                 {this.state.showCrimeDetails ?
                     <React.Fragment>
-                        <button className="back-to-home" type="button" onClick={this.backToHome}>Back</button>
-                        <CrimeDetails
-                            person={this.state.person}
-                            list={this.state.list}
-                        />
+                        <div id="content">
+                            <div className="back-to-home" onClick={this.backToHome}>Back</div>
+                            <CrimeDetails
+                                person={this.state.person}
+                                list={this.state.list}
+                            />
+                        </div>
                     </React.Fragment>
 
                     :
                     <React.Fragment>
-                        <div className="list-preview">
-                            <div className="list-heading">
-                                <span>{MeTooList.heading}</span>
+                        <img id="main-image" src="images/shutterstock_752231824.jpg" />
+                        <div id="content">
+                            <div className="list-preview">
+                                <div className="list-heading">
+                                    <span>{MeTooList.heading}</span>
+                                </div>
+                                <ul>
+                                    {this.getListItems(MeTooList)}
+                                </ul>
                             </div>
-                            <ul>
-                                {this.getListItems(MeTooList)}
-                            </ul>
-                        </div>
-                        <div className="list-preview">
-                            <div className="list-heading">
-                                <span>{ActorsList.heading}</span>
+                            <div className="list-preview">
+                                <div className="list-heading">
+                                    <span>{ActorsList.heading}</span>
+                                </div>
+                                <ul>
+                                    {this.getListItems(ActorsList)}
+                                </ul>
                             </div>
-                            <ul>
-                                {this.getListItems(ActorsList)}
-                            </ul>
-                        </div>
-                        <div className="list-preview">
-                            <div className="list-heading">
-                                <span>{PoliticiansList.heading}</span>
+                            <div className="list-preview">
+                                <div className="list-heading">
+                                    <span>{PoliticiansList.heading}</span>
+                                </div>
+                                <ul>
+                                    {this.getListItems(PoliticiansList)}
+                                </ul>
                             </div>
-                            <ul>
-                                {this.getListItems(PoliticiansList)}
-                            </ul>
-                        </div>
-                        <div className="list-preview">
-                            <div className="list-heading">
-                                <span>{AthletesList.heading}</span>
+                            <div className="list-preview">
+                                <div className="list-heading">
+                                    <span>{AthletesList.heading}</span>
+                                </div>
+                                <ul>
+                                    {this.getListItems(AthletesList)}
+                                </ul>
                             </div>
-                            <ul>
-                                {this.getListItems(AthletesList)}
-                            </ul>
-                        </div>
-                        <div className="list-preview">
-                            <div className="list-heading">
-                                <span>{MusiciansList.heading}</span>
+                            <div className="list-preview">
+                                <div className="list-heading">
+                                    <span>{MusiciansList.heading}</span>
+                                </div>
+                                <ul>
+                                    {this.getListItems(MusiciansList)}
+                                </ul>
                             </div>
-                            <ul>
-                                {this.getListItems(MusiciansList)}
-                            </ul>
                         </div>
                     </React.Fragment>
 
