@@ -1,7 +1,7 @@
 const merge = require('webpack-merge');
 const path = require('path');
 const webpack = require('webpack');
-
+const FontelloPlugin = require("fontello-webpack-plugin");
 
 const common = {
 	entry: path.join(__dirname, 'app'),
@@ -77,6 +77,10 @@ module.exports = merge(common, {
 		new webpack.ProvidePlugin({
 			$: 'jquery',
 			jQuery: 'jquery'
-		})
+		}),
+        new FontelloPlugin({
+            config: require("./public/fontello-7.0.0/config.json")
+        })
 	]
 });
+

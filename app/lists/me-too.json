@@ -1,0 +1,338 @@
+{
+	"heading": "#MeToo Offenders",
+	"people": [
+		{
+            "name":"Dr. Larry Nassar",
+            "mugshot":"mugshots/LarryNassar.jpg",
+            "crimes":[
+                {
+                    "crimeName":"Child pornography",
+                    "crimeDate":"2017",
+                    "chargeType":"felony",
+                    "sentence":"60 years",
+                    "crimeDescription":"",
+                    "numberOfAccusers":""
+                },
+                {
+                    "crimeName":"Sexual assault of minors",
+                    "crimeDate":"2018",
+                    "chargeType":"felony",
+                    "sentence":"40 - 175 years",
+                    "descripton":""
+                },
+                {
+                    "crimeName":"Sexual assault",
+                    "crimeDate":"2018",
+                    "chargeType":"felony",
+                    "sentence":"40 - 125 years",
+                    "crimeDescription":"The disgraced former USA Gymnastics and Michigan State University doctor was sentenced to 40 to 175 years in prison, a judge announced Wednesday, after more than 150 women and girls said in court that he sexually abused them over the past two decades.",
+                    "numberOfAccusers":"Greater than 150"
+                }
+            ],
+            "sources":[
+                "https://www.cnn.com/2018/01/24/us/larry-nassar-sentencing/index.html",
+                "https://en.wikipedia.org/wiki/Larry_Nassar"
+            ]
+        },
+		{
+			"name": "James Franco",
+			"crimes": [
+				{
+					"crimeName": "Alleged sexual misconduct and inappropriate behavior",
+					"crimeDate": "2018",
+					"numberOfAccusers": "Unclear",
+					"crimeDescription": "Almost immediately after James Franco, 39, won a Golden Globe on Jan. 7, \"The Breakfast Club\" actress Ally Sheedy tweeted: \"James Franco just won. Please never ever ask me why I left the film/tv business.\" (Franco directed Sheedy in a 2014 off-Broadway play.)<br>It was not exactly clear what Sheedy meant in her posts, but they quickly revived rumors of alleged sexual misconduct and inappropriate behavior. Sarah Tither-Kaplan, a filmmaker and actress, claimed in a tweet that Franco told her the \"full nudity\" he purportedly asked her to do for two of his movies was not exploitative because she had signed a contract. Violet Paley, another actress, claimed in a tweet that Franco once pushed her head toward his \"exposed penis.\"<br>Franco denied accusations of sexual impropriety during a Jan. 9 appearance on \"The Late Show\" on CBS. \"The things that I heard that were on Twitter are not accurate, but I completely support people coming out and being able to have a voice,\" Franco told host Stephen Colbert."
+				}
+			],
+			"mugshot": "mugshots/JamesFranco.jpg",
+			"sources": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Paul Haggis",
+			"crimes": [
+				{
+					"crimeName": "Sexual misconduct",
+					"crimeDate": "",
+					"numberOfAccusers": "At least four",
+					"crimeDescription": "Paul Haggis, 64, the Oscar-winning filmmaker who wrote \"Million Dollar Baby\" and directed \"Crash,\" has been accused of sexual misconduct by at least five women. In a civil lawsuit, a publicist accuses Haggis of rape. That lawsuit inspired three other women to come forward with their own sexual misconduct accusations, including another publicist who claims he forced her to perform oral sex and then raped her. <br>Christine Lepera, an attorney for Haggis, said in a statement to the Associated Press: \"He didn't rape anybody.\""
+				}
+			],
+			"mugshot": "mugshots/PaulHaggis.jpg",
+			"sources": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Ben Vereen",
+			"crimes": [
+				{
+					"crimeName": "Inappropriate sexual misconduct",
+					"crimeDate": "2015",
+					"numberOfAccusers": "At least two",
+					"crimeDescription": "Broadway legend Ben Vereen, 71, has been accused of inappropriate sexual misconduct with cast members in a 2015 community theater production of the classic musical \"Hair.\" The allegations, first reported by the blog OnStage and the New York Daily News, were leveled by two young actresses who starred in the show.<br>In a statement, Vereen apologized to the women for his \"inappropriate conduct,\" adding: \"While it was my intention to create an environment that replicated the themes of that musical during the rehearsal process, I have since come to understand that it is my conduct, not my intentions, which are relevant here.\""
+				}
+			],
+			"mugshot": "mugshots/BenVereen.png",
+			"sources": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Peter Martins",
+			"crimes": [
+				{
+					"crimeName": "Verbal and physical abuse",
+					"crimeDate": "1993",
+					"numberOfAccusers": "At least five",
+					"crimeDescription": "Peter Martins, 71, the influential head of the New York City Ballet, has been accused by five dancers of verbal and physical abuse dating back to 1993, The New York Times reported. And in recent interviews with The Times, 24 women and men described what the newspaper called a \"culture of intimidation\" under Martins, a luminary on the New York artistic scene.<br>\"I have denied, and continue to deny, that I have engaged in any such misconduct,\" Martins wrote in a letter informing the ballet board of his retirement, according to The Times. \"I cooperated fulling in the [company's] investigation and understand it will be completed shortly. I believe its findings would have vindicated me.\""
+				}
+			],
+			"mugshot": "mugshots/PeterMartins.jpg",
+			"sources": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Charles Dutoit",
+			"crimes": [
+				{
+					"crimeName": "Sexual assault",
+					"crimeDate": "Between 1985 and 2010",
+					"numberOfAccusers": "Four",
+					"crimeDescription": "Charles Dutoit, 81, the world-renowned artistic director and principal conductor of London's Royal Philharmonic Orchestra, allegedly sexually assaulted four women between 1985 and 2010, The Associated Press reported. The women — three opera singers and a classical musician — said the incidents happened in a car, Dutoit's hotel suite, his dressing room, an elevator, and backstage before a performance.<br>The women allege that Dutoit did everything from groping their breasts to restraining them and thrusting himself upon them."
+				}
+			],
+			"mugshot": "mugshots/CharlesDutoit.jpg",
+			"sources": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Morgan Spurlock",
+			"crimes": [
+				{
+					"crimeName": "Sexual misconduct ",
+					"crimeDate": "",
+					"numberOfAccusers": "",
+					"crimeDescription": "Director Morgan Spurlock admitted on Dec. 13 to a history of sexual misconduct that reaches back to his college days.<br>Declaring \"I am part of the problem,\" the 47-year-old filmmaker — who won acclaim for his 2004 documentary \"Super Size Me\" — wrote in a blog post that he was accused of rape in college, settled a sexual harassment lawsuit and has cheated on all of his romantic partners, including both of his wives.<br>The post was shared from Spurlock's verified Twitter account. He said coming clean is necessary, in part, because of the anxiety he faced: \"As I sit around watching hero after hero, man after man, fall at the realization of their past indiscretions, I don't sit by and wonder 'who will be next?' I wonder, 'when will they come for me?'\""
+				}
+			],
+			"mugshot": "mugshots/MorganSpurlock.jpg",
+			"sources": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Mario Batali",
+			"crimes": [
+				{
+					"crimeName": "",
+					"crimeDate": "",
+					"numberOfAccusers": "Four",
+					"crimeDescription": "Four women accused celebrity chef Mario Batali of inappropriate touching over the course of two decades, causing the restaurateur and television show host to step aside from his projects for the time being.<br>The accusations against Batali were first published in a report by Eater New York on Dec. 11. Three of the accusers were employees of the chef.<br>All the women recounted instances at different points in Batali's career when they say the chef groped them and made inappropriate comments of a sexual nature.<br>In a statement, Batali apologized and said the accusations described by the women \"match up with the way [he has] acted.\"<br>\"I apologize to the people I have mistreated and hurt. Although the identities of most of the individuals mentioned in these stories have not been revealed to me, much of the behavior described does, in fact, match up with ways I have acted. That behavior was wrong and there are no excuses. I take full responsibility and am deeply sorry for any pain, humiliation or discomfort I have caused to my peers, employees, customers, friends and family,\" the statement said in part.<br>Batali added that he was stepping away from the \"day-to-day operations of my businesses,\" acknowledging his actions disappointed many people and \"the failures are mine alone.\"<br>A few days later, ABC said they fired him from the cooking show, \"The Chew.\""
+				}
+			],
+			"mugshot": "mugshots/MarioBatali.jpg",
+			"sources": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Andrew Kreisberg",
+			"crimes": [
+				{
+					"crimeName": "Sexual harassment and inappropriate contact",
+					"crimeDate": "",
+					"numberOfAccusers": "19",
+					"crimeDescription": "Andrew Kreisberg, the executive producer of the CW shows \"Arrow,\" \"Supergirl,\" \"DC's Legends of Tomorrow\" and \"The Flash,\" was fired by Warner Bros. TV Group after allegations by 19 people of sexual harassment and inappropriate contact.<br>Warner Bros. said in a statement on Nov. 29 that the decision came after he was suspended during an internal investigation.<br>\"We remain committed to providing a safe working environment for our employees and everyone involved in our productions,\" the group said. Variety first reported that 15 women and four men who have worked with the producer said he engaged in a pattern of sexual harassment and inappropriate physical contact over the years. None of the sources were identified by Variety, which said many of the women are current or former employees and fear retaliation.<br>Kreisberg, 46, could not immediately be reached by NBC News, but denied the allegations to Variety: \"I have made comments on women's appearances and clothes in my capacity as an executive producer, but they were not sexualized. Like many people, I have given someone a non-sexual hug or kiss on the cheek.\"<br>Berlanti Productions, which produces Kreisberg's show, said in a statement that it agrees with Warner Bros.'s decision: \"Nothing is more important to us than the safety and well-being of all our colleagues — coworkers, crew and staff alike.\""
+				}
+			],
+			"mugshot": "mugshots/AndrewKreisberg.jpg",
+			"sources": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Louis C.K.",
+			"crimes": [
+				{
+					"crimeName": "Sexual misconduct",
+					"crimeDate": "",
+					"numberOfAccusers": "5",
+					"crimeDescription": "Five women have accused Emmy-winning comedian and actor Louis C.K. of sexual misconduct dating back at least 15 years, The New York Times reported.<br>In the exposé published in The Times, comedians Dana Min Goodman and Julia Wolov allege Louis CK in 2002 invited them to his hotel room in Colorado, undressed himself, and masturbated in front of them. Abby Schachner, a comedian who says she called Louis C.K. to invite him to one of her performances in 2003, claims she could hear him masturbating during their phone conversation. Rebecca Corry, a writer and actress, alleges Louis C.K. asked if he could masturbate in front of her while they appeared together on a television pilot in 2005.<br>In a statement a day after the report, Louis C.K. said \"these stories are true,\" adding that he feels remorseful for his actions.<br>\"I have been remorseful of my actions. And I've tried to learn from them. And run from them. Now I’m aware of the extent of the impact of my actions. I learned yesterday the extent to which I left these women who admired me feeling badly about themselves and cautious around other men who would never have put them in that position,\" he said.<br>Shortly after the report was published, HBO announced that Louis C.K. would no longer be participating in a comedy fundraising special planned for Nov. 18. HBO also said it would be removing the comedian’s past projects from its On Demand services.<br>A day after The Times published its report, Louis C.K.’s publicist, Lewis Kay, said on Twitter that he dropped the comedian as a client. Netflix also announced that it would not produce a second planned stand-up special after releasing the first, titled \"2017,\" earlier this year.<br>FX Networks and FX Productions later ended its relationship with Louis C.K. once he admitted that the allegations were true. FX said in a statement that he would no longer serve as executive producer or receive compensation for the four shows he was involved with."
+				}
+			],
+			"mugshot": "mugshots/LouisCK.jpg",
+			"sources": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Steven Seagal",
+			"crimes": [
+				{
+					"crimeName": "Sexual harassment",
+					"crimeDate": "",
+					"numberOfAccusers": "3",
+					"crimeDescription": "At least three actresses have accused Steven Seagal of sexual harassment. Actress Portia de Rossi tweeted that she once auditioned for the former action star in his office, where he \"said how important it was to have chemistry off-screen as he sat me down and unzipped his leather pants.\"<br>De Rossi said she ran out and told her agent. She didn't say when the alleged incident occurred.<br>Actress Rae Dawn Chong told The Hollywood Reporter of a similar story. She said the talent agency that represented her from 1989-90 had her meet Seagal inside of his hotel room at night. She said he exposed himself to her and that after she told her agent what happened, it impacted her career. She later left the agency, she said, \"because it was like a pimp situation.\"<br>Actress Jenny McCarthy also recounted an audition with Seagal in 1995 for the film \"Under Siege 2,\" telling SiriusXM that she was excited to read for the part when he told her to \"relax\" on a couch. But he then requested that she pull down her dress, she said, which prompted her to run out to her car. But Seagal followed her, she added, and told her not to tell anyone of their encounter.<br>Other women have claimed Seagal acted inappropriately or strangely with them, but not specifically of sexual misconduct. Julianna Margulies, who co-starred with Seagal in 1991's \"Out for Justice,\" said on SiriusXM that when she was 23, she was told by a casting director to go to Seagal's hotel room at night.<br>Margulies said that when she got there, she was alone. Seagal \"made sure that I saw his gun, which I had never seen a gun in real life,\" the actress said. \"And I got out of there unscathed.\"<br>Eva LaRue, of \"All My Children\" and \"CSI: Miami,\" told Deadline that Seagal locked her in her room, pulled back his kimono and unveiled his underwear. She was 22 and waiting for an audition.<br>Reps for Seagal did not immediately respond to a request for comment from NBC News. His spokesman previously told the Daily Beast that McCarthy's \"claim is completely false.\""
+				}
+			],
+			"mugshot": "mugshots/StevenSeagal.jpg",
+			"sources": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Ed Westwick",
+			"crimes": [
+				{
+					"crimeName": "Sexual assault",
+					"crimeDate": "",
+					"numberOfAccusers": "2",
+					"crimeDescription": "Actress Kristina Cohen wrote a Facebook post saying that she and a boyfriend had gone to Ed Westwick's home three years ago.<br>Cohen said she took a nap in one of the rooms, and that when she woke up, the \"Gossip Girl\" actor was sexually assaulting her. She said she tried to fight him off, but he was too strong.<br>\"I couldn’t speak, I could no longer move. He held me down and raped me,\" she wrote.<br>Westwick responded the following day on social media to deny the allegations: \"I do not know this woman. I have never forced myself in any manner, on any woman. I certainly have never committed rape.\"<br>The Los Angeles Police Department said Cohen filed a police report, which confirms an investigation but not evidence of a crime. There was no police report filed at the time of the alleged incident, sources said.<br>Following Cohen's post, former actress Aurélie Wynn shared on Facebook a claim that she was raped by Westwick while taking a nap in July 2014."
+				}
+			],
+			"mugshot": "mugshots/EdWestwick.jpg",
+			"source": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Brett Ratner",
+			"crimes": [
+				{
+					"crimeName": "Varying accounts of inappropriate behavior",
+					"crimeDate": "",
+					"numberOfAccusers": "7",
+					"crimeDescription": "Actresses Olivia Munn, Katharine Towne, Jamie Ray Newman, Natasha Henstridge, Jorina King and model and singer Eri Sasaki all alleged varying accounts of inappropriate behavior from director Brett Ratner, The Los Angeles Times reported.<br>Munn and Henstridge both told The Times they experienced separate incidents early in their careers in which Ratner masturbated in front of them. Munn said she was delivering food as a favor in 2004 to what she believed was Ratner’s empty trailer, and was frightened to find him inside.<br>Ratner’s attorney, Martin Singer, staunchly denied each woman’s allegations and claimed Munn’s account was \"a complete lie.\"<br>In light of the allegations, Ratner said in a statement that he is choosing to \"step away from all Warner Bros.-related activities.\"<br>More than a week after Ratner released his statement, on Nov. 10, actress Ellen Page accused Ratner of making sexual and homophobic comments to her while she was working with him on the 2006 film \"X-Men: The Last Stand.\" She also alleges that Ratner \"outed\" her as gay while he was disparaging her."
+				}
+			],
+			"mugshot": "mugshots/BrettRatner.jpg",
+			"source": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Dustin Hoffman",
+			"crimes": [
+				{
+					"crimeName": "Sexual Harassment",
+					"crimeDate": "",
+					"numberOfAccusers": "6",
+					"crimeDescription": "Anna Graham Hunter was a 17-year-old production assistant for the 1985 film adaptation of \"Death of a Salesman\" when actor Dustin Hoffman grabbed her and used sexually explicit language with her, she said in a first-person account published Nov. 1 by The Hollywood Reporter.<br>Playwright Wendy Riss Gatsiounis also said Hoffman sexually harassed her in 1991 and allegedly propositioned her and attempted to persuade her to accompany him to a store in a nearby hotel.<br>Kathryn Rossetter, who co-starred with Hoffman in \"Death of a Salesman\" on Broadway in 1983, wrote a guest column in The Hollywood Reporter on Dec. 8 that said the actor used to grope her on stage during her performance. Rossetter said in the first-person account that one time he had planned a \"surprise\" for his friends and invited them backstage to witness him groping her.<br>According to Rossetter's column, in the beginning of her professional relationship with Hoffman, he would invite her to a hotel room and ask her to give him a back rub. On other occasions, he allegedly summoned her into a dressing room and asked her to give him a foot rub while his dresser stood guard outside.<br>Variety on Dec. 14 also published accounts from a woman named Melissa Kester who said Hoffman sexually assaulted her while recording audio for the 1987 film \"Ishtar\" and another unidentified woman working on the same movie who said the actor assaulted her in a car. A third woman, Cori Thomas, who said she was a classmate of Hoffman's daughter, told Variety she was 16 in 1980 when he exposed himself to her.<br>In a letter to Variety's owner, Hoffman's attorney called those latest accusations against him \"defamatory falsehoods.\""
+				}
+			],
+			"mugshot": "mugshots/DustinHoffman.jpg",
+			"source": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Jeremy Piven",
+			"crimes": [
+				{
+					"crimeName": "Inappropriate touching",
+					"crimeDate": "",
+					"numberOfAccusers": "Multiple",
+					"crimeDescription": "On Twitter, actress and reality television star Ariane Bellamar accused “Entourage” actor Jeremy Piven of groping her once on set, and again at the Playboy Mansion.<br>Bellamar claims that Piven grabbed her breasts without her consent after cornering her in his trailer on the “Entourage” set. Addressing the actor directly, Bellamar tweeted, “I tried to leave; you grabbed me by the ass, looked at yourself in the mirror [and] said what a ‘beautiful couple’ we made.” It is unclear whether she was referring to the set of the “Entourage” television series or its movie sequel.<br>Days later, actress Cassidy Freeman said in an Instagram post that Piven of making unwanted sexual advances toward her.<br>\"I unequivocally deny the appalling allegations being peddled about me. It did not happen,\" Piven said in a statement. \"It takes a great deal of courage for victims to come forward with their histories, and my hope is that the allegations about me that didn't happen, do not detract from stories that should be heard.\"<br>About a week later, Tiffany Bacon Scourby told People that Piven exposed himself, rubbed his genitals against her and ejaculated on her clothing in October 2003 in New York City. She said she told a longtime friend immediately after the alleged incident and People said the friend corroborated the allegation."
+				}
+			],
+			"mugshot": "mugshots/JeremyPiven.jpg",
+			"source": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Kevin Spacey",
+			"crimes": [
+				{
+					"crimeName": "Inappropriate touching",
+					"crimeDate": "",
+					"numberOfAccusers": "Multiple",
+					"crimeDescription": "Broadway veteran Anthony Rapp accused “House of Cards” star Kevin Spacey of climbing on top of him in a sexual manner when he was 14 years old and Spacey was 26 or 27 at a party in Spacey’s New York apartment.<br>\"I honestly do not remember the encounter, it would have been over 30 years ago,\" Spacey wrote in a statement on Twitter. \"But if I did behave then as he describes, I owe him the sincerest apology for what would have been deeply inappropriate drunken behavior, and I am sorry for the feelings he describes having carried with him all these years.\"<br>Mexican actor Roberto Cavazos also accused Spacey of inappropriate touching during an encounter at the Old Vic theater in London, where Spacey served as artistic director from 2004 until 2015.<br>Spacey was later accused by eight people who currently or previously worked on the “House of Cards” set of creating a “toxic” work environment, CNN reported. Among those eight unnamed accusers, some also claimed the actor sexually harassed or assaulted them.<br>Harry Dreyfuss, an actor and son of Oscar winner Richard Dreyfuss, has accused Spacey of groping him in 2008. The younger Dreyfuss claimed in a Buzzfeed article that Spacey put his hand on his thigh and later groped his crotch when Dreyfuss was 18. Spacey \"absolutely denies the allegations\" from Dreyfuss, his lawyer Bryan Freedman told Buzzfeed.<br>Heather Unruh, a former television anchor, told reporters that Spacey bought her then 18-year-old son \"drink after drink after drink\" at a crowded restaurant in Nantucket, Massachusetts, in July 2016, and then \"stuck his hand inside my son's pants and grabbed his genitals.\"<br>NBC News has not verified the allegations. Spacey's attorney did not respond to a request for comment."
+				}
+			],
+			"mugshot": "mugshots/KevinSpacey.jpg",
+			"source": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "George H.W. Bush",
+			"crimes": [
+				{
+					"crimeName": "",
+					"crimeDate": "",
+					"numberOfAccusers": "7",
+					"crimeDescription": "Seven women from separate incidents have come forward to accuse former President George H.W. Bush of touching them from behind while they posed beside him for photos. Some said he also told them a dirty joke.<br>Television actress Heather Lind was first to accuse the former president, and said in a now-deleted Instagram post that Bush inappropriately touched her during a 2014 screening of her AMC series, “TURN: Washington’s Spies,” in Houston. Lind appears alongside Bush, who’s seated in a wheelchair, while his wife, former First Lady Barbara Bush, was also present.<br>\"At age 93, President Bush has been confined to a wheelchair for roughly five years, so his arm falls on the lower waist of people with whom he takes pictures,\" Bush spokesman Jim McGrath said in a statement. \"To try to put people at ease, the president routinely tells the same joke — and on occasion, he has patted women's rears in what he intended to be a good-natured joke.\"<br>New York actress Jordana Grolnick also accused the former president of having inappropriately touched her in 2016. Author Christina Baker Kline said the incident involving Bush occurred in 2014, while Amanda Staples, a Republican candidate for Maine's Senate, said the touching occurred in 2006 and retired journalist Liz Allen said her incident happened in 2004.<br>A woman named Roslyn Corrigan told TIME that she was 16 in 2003 when Bush touched her from behind during a photo op. McGrath said in response that Bush \"does not have it in his heart to knowingly cause anyone harm or distress.\"<br>In the latest accusation, a Michigan woman told CNN that Bush grabbed her during a photo-up in April 1992, while he was in office. \"We got closer together for a family photo and it was like, 'Holy crap!' It was like a gentle squeeze,\" the unidentified woman told CNN."
+				}
+			],
+			"mugshot": "mugshots/GeorgeHWBush.jpg",
+			"source": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "James Toback",
+			"crimes": [
+				{
+					"crimeName": "Sexual harassment",
+					"crimeDate": "",
+					"numberOfAccusers": "At least 238",
+					"crimeDescription": "More than 200 additional women contacted The Los Angeles Times in response to its initial investigation, in which 38 women described similar instances of sexual harassment from veteran Hollywood writer and director James Toback.<br>Toback has written or directed more than a dozen films, including “Tyson,” “The Pick-Up Artist” and “Bugsy,” for which he received an Oscar nomination.<br>Toback denied the allegations to The Times, saying that he had either never met his accusers or only did “for five minutes and have no recollection” of them. He also claimed it would have been “biologically impossible” for him to engage in the behavior the women described throughout the last 22 years, citing diabetes and a heart condition requiring medication."
+				}
+			],
+			"mugshot": "mugshots/JamesToback.jpg",
+			"source": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Ben Affleck",
+			"crimes": [
+				{
+					"crimeName": "Sexual misconduct",
+					"crimeDate": "",
+					"numberOfAccusers": "2",
+					"crimeDescription": "Hours after actor Ben Affleck released a statement condemning Harvey Weinstein’s alleged sexual misconduct, Affleck was accused of groping Hilarie Burton, an actress and former host of MTV’s “Total Request Live,” in the early 2000s.<br>“I was a kid,” Burton, now 35, said on Twitter. In a follow-up post, she included a video showing the uncensored “TRL” cold open in which she says, in apparent reference to Affleck, “He comes over and tweaks my left boob.”<br>“I acted inappropriately toward Ms. Burton and I sincerely apologize,” Affleck said on Twitter.<br>Makeup artist Annamarie Tendler also accused Affleck of inappropriately grabbing her during a 2014 party. “I would also love to get an apology from Ben Affleck who grabbed my ass at a Golden Globes party in 2014,” she said on Twitter, further describing the incident in follow-up posts.<br>Affleck told The Associated Press on Nov. 5 that he is “looking at my own behavior and addressing that and making sure I’m part of the solution.”"
+				}
+			],
+			"mugshot": "mugshots/BenAffleck.jpg",
+			"source": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Harvey Weinstein",
+			"crimes": [
+				{
+					"crimeName": "sexual harassment",
+					"crimeDate": "",
+					"numberOfAccusers": "More than 80",
+					"crimeDescription": "Hollywood mogul Harvey Weinstein was fired from the studio he co-founded after a wave of employees and actresses, including Gwyneth Paltrow and Angelina Jolie, alleged sexual harassment and assault in explosive back-to-back reports in The New York Times and The New Yorker.<br>Asia Argento, an Italian actress who told The New Yorker she was sexually assaulted by Weinstein in 1997, tweeted a list of names of more than 80 women who had allegedly been sexually harassed, assaulted, raped or molested by Weinstein dating back to the late 1970s. Argento said she compiled the list with help from other Weinstein accusers.<br>Actress Paz de la Huerta accused the disgraced mogul of raping her in 2010, Vanity Fair reported.<br>Weinstein has denied all allegations that he engaged in non-consensual sex with women, and no criminal charges have been brought against him. “Any allegations of non-consensual sex are unequivocally denied by Mr. Weinstein,” Weinstein’s spokeswoman, Sallie Hofmeister, said in a statement.<br>In a Dec. 13 op-ed in The New York Times, actress Salma Hayek accused Weinstein of threatening to shut down production of her movie, \"Frida,\" unless she agreed to do a sex scene with another woman. Hayek also alleged Weinstein pursued her, made sexually suggestive and inappropriate comments and used his position to intimidate her and even threaten her life.<br>A spokesperson denied her claims and said the allegations \"are not accurate and others who witnessed the events have a different account of what transpired.\""
+				}
+			],
+			"mugshot": "mugshots/HarveyWeinstein.jpg",
+			"source": [
+				"NBC news"
+			]
+		},
+		{
+			"name": "Matt Lauer",
+			"crimes": [
+				{
+					"crimeName": "",
+					"crimeDate": "",
+					"numberOfAccusers": "",
+					"crimeDescription": "In an abrupt announcement on Wednesday morning, Nov. 29, longtime \"Today\" show host Matt Lauer was fired by NBC for what was deemed \"inappropriate sexual behavior in the workplace.\" The move came after a detailed complaint was filed two days earlier by an unnamed colleague of Lauer’s.<br>NBC News Chairman Andy Lack said in a statement that it was the first such complaint against Lauer in his 20-plus years at NBC but that there was reason to believe it might not have been isolated. It any case, Lack said it represented \"a clear violation of our company’s standards.\"<br>Within hours of his termination, The New York Times reported that two more women had come forward with claims against Lauer. In addition, Variety published a story outlining multiple allegations of inappropriate behavior on Lauer's part after what the showbiz publication said was a two-month investigation.<br>By Thursday morning (Nov. 30), Lauer issued a statement: \"There are no words to express my sorrow and regret for the pain I have caused others by words and actions. To the people I have hurt, I am truly sorry. As I am writing this I realize the depth of the damage and disappointment I have left behind at home and at NBC.<br>\"Some of what is being said about me is untrue or mischaracterized, but there is enough truth in these stories to make me feel embarrassed and ashamed,\" the statement continued. \"I regret that my shame is now shared by the people I cherish dearly.\""				}
+			],
+			"mugshot": "mugshots/MattLauer.jpg",
+			"source": [
+				"NBC news"
+			]
+		}
+	]
+
+}
