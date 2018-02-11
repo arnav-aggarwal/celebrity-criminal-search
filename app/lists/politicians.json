@@ -1,0 +1,149 @@
+{
+    "heading": "Pariah Politicians",
+    "people" : [
+        {
+            "name": "Michael Flynn",
+            "mugshot": "mugshots/MichaelFlynn.jpg",
+            "crimes": [
+                {
+                    "crimeName": "Making false statements",
+                    "crimeDate": "2017",
+                    "chargeType": "Felony",
+                    "crimeDescription": "Flynn is accused of knowingly making false and ficticious statements to the FBI in regards to conversations with a Russian Ambassador. Flynn plead guilty and is cooperating with authorities in the investigation.",
+                    "sentence": "Awaiting sentencing",
+                    "numberOfAccusers": null
+                }
+            ],
+            "sources": ["CNN","Wikipedia"]
+        },
+        {
+            "name": "Corrine Brown",
+            "mugshot" : "mugshots/CorrineBrown.jpg",
+            "crimes": [
+                {
+                    "crimeName": "Fraud, Tax Evasion",
+                    "crimeDate": "2017",
+                    "chargeType": "Felony",
+                    "crimeDescription": "In May of 2017, Corinne Brown was found guilty of operating a fraudulent charity. She had used $300,000 for personal expensess such as tickets to NFL games and Beyonce concerts. She was convicted on 18 criminal counts, including mail and wire fraud.",
+                    "sentence": "Five years in prison, restitution payment",
+                    "numberOfAccusers": null
+                }
+            ],
+            "sources": ["New York Times", "Wikipedia"]
+        },
+        {
+            "name": "Greg Gianforte",
+            "mugshot": "mugshots/GregGianforte.jpg",
+            "crimes": [
+                {
+                "crimeName": "Assault",
+                "chargeType": "Misdemeanor",
+                "crimeDate": "2017",
+                "crimeDescription": "Gianforte pleaded guilty to attacking The Guardian reporter Ben Jacobs. He had bodyslammed the reporter at a campaign event. Gianforte later publicly apologized to Ben Jacobs, who later accepted his apology.",
+                "sentence": "40 Hours community service, 20 hours anger management, 180-day deferred sentence, $300 fine",
+                "numberOfAccusers": null
+                }
+            ],
+            "sources": ["CNN", "Wikipedia"]
+        },
+        {
+            "name": "General David Petraeus",
+            "mugshot": "mugshots/GeneralDavidPetraeus.jpg",
+            "crimes": [
+                {
+                    "crimeName": "Making false statements, Violating Espionage Act",
+                    "chargeType": "Felony",
+                    "crimeDate": "2015",
+                    "crimeDescription": "David Petraeus was accused of compromising confidential information after sharing the information with his mistress and biographer, Paula Broadwell. He avoided jail time as part of a plea deal. Prosecutors did not send Petraeus to jail because the classified information was never released in his biography.",
+                    "sentence": "Two years probation, Fine of $100,000",
+                    "numberOfAccusers": null
+                }
+            ],
+            "sources": ["CNN", "Wikipedia"]
+        },
+        {
+            "name": "Dennis Hastert",
+            "mugshot": "mugshots/DennisHastert.jpg",
+            "crimes": [
+                {
+                    "crimeName": "Structuring",
+                    "chargeType": "Felony",
+                    "crimeDate": "2015",
+                    "crimeDescription": "Dennis Hastert illegally structured bank transactions related to a $3.5 million dollar payment which was an effort to silence allegations of sexual misconduct.",
+                    "sentence": "Dropped",
+                    "numberOfAccusers": null
+                },
+                {
+                    "crimeName": "Sexual Abuse of Minors",
+                    "chargeType": "Felony",
+                    "crimeDate": "2015",
+                    "crimeDescription": "Halstert admitted to molesting four boys as young as 14. He commited crimes against these boys when he was their high school wrestling coach.",
+                    "sentence": "15 months prison time, 2 years supervised release, $250,000 fine",
+                    "numberOfAccusers": null
+                }
+
+            ],
+            "sources": ["CNN", "Wikipedia"]
+        },
+        {
+            "name": "Trey Radel",
+            "mugshot": "mugshots/TreyRadel.jpg",
+            "crimes": [
+                {
+                    "crimeName": "Cocaine Posession",
+                    "chargeType": "Misdemeanor",
+                    "crimeDate": "2013",
+                    "crimeDescription": "Trey Radel was caught attempting to buy 3.5 grams of cocaine from an undercover officer.",
+                    "sentence": "One year supervised probabtion",
+                    "numberOfAccusers": null
+                }
+            ],
+            "sources": ["BBC", "Wikipedia"]
+        },
+        {
+            "name": "Jessie Jackson, Jr.",
+            "mugshot": "mugshots/JessieJacksonJr.jpg",
+            "crimes": [
+                {
+                    "crimeName": "Fraud",
+                    "chargeType": "Felony",
+                    "crimeDate": "2013",
+                    "crimeDescription": "Jessie Jackson, Jr. used $750,000 worth of campaign funds to pay for living expenses and other items such as fur capes, elk heads and stuffed animals. He pleaded guilty, and admitted to living off campaign funds. His wife had also used the money to purchase lavish dinners, and vacations at Martha's Vineyard.",
+                    "sentence": "46-57 Months in prison",
+                    "numberOfAccusers": null
+                }
+            ],
+            "sources": ["BBC", "Wikipedia"]
+        },
+        {
+            "name": "Scott Bloch",
+            "mugshot": "mugshots/ScottBloch.jpg",
+            "crimes": [
+                {
+                    "crimeName": "Contempt of Congress",
+                    "chargeType": "Misdemeanor",
+                    "crimeDate": "2010",
+                    "crimeDescription": "Scott Bloch wiped his home and office computers in 2007 after being accused of politically motivated harrassment.",
+                    "sentence": "One day in jail, two years probation, $5000 fine, 200 hours of community service.",
+                    "numberOfAccusers": null
+                }
+            ],
+            "sources": ["Google", "Wikipedia"]
+        },
+        {
+            "name": "James Traficant",
+            "mugshot": "mugshots/JamesTraficant.jpg",
+            "crimes": [
+                {
+                    "crimeName": "Financial Corruption",
+                    "chargeType": "Felony",
+                    "crimeDate": "2002",
+                    "crimeDescription": "James Traficant was banned from the White House after being convicted of taking bribes, filing false tax returns, racketeering and forcing his aides to do chores on his houseboat and in his home.",
+                    "sentence": "Eight years in prison.",
+                    "numberOfAccusers": null
+                }
+            ],
+            "sources": ["Google", "Wikipedia"]
+        }
+    ]
+}

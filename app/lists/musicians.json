@@ -1,0 +1,175 @@
+{
+    "heading": "Musicians",
+	"people": [
+		{
+			"name": "Marilyn Manson",
+			"crimes": [
+				{
+					"crimeName": "Faking a sexual act, impersonating a Catholic bishop and more",
+					"crimeDate": "",
+					"chargeType": "",
+					"sentence": "",
+					"numberOfAccusers": "",
+					"crimeDescription": "Marilyn Manson has always been a strange character, making it no surprise that he has been arrested for charges such as faking a sexual act, impersonating a Catholic bishop, and exposing himself during a performance. One of his strangest accusations, however, came in 2001 when he assaulted a security guard at one of his concerts, reportedly rubbing his crotch and genitalia on the man’s forehead."
+				}
+			],
+			"mugshot": "mugshots/MarilynManson.jpg",
+			"sources": [
+				"list25"
+				]
+		},
+		{
+			"name": "Jay Z",
+			"crimes": [
+				{
+					"crimeName": "",
+					"crimeDate": "1999",
+					"chargeType": "",
+					"sentence": "",
+					"numberOfAccusers": "",
+					"crimeDescription": "In December of 1999, American rap artist Jay Z was accused of stabbing a record executive in the stomach at a nightclub in Manhattan. Although he originally plead innocent to the charges, in 2001 he admitted he was guilty of the misdemeanor and accepted a three-year prohibition sentence."
+				}
+			],
+			"mugshot": "mugshots/JayZ.jpg",
+			"sources": [
+				"list25"
+				]
+		},
+		{
+			"name": "50 Cent",
+			"crimes": [
+				{
+					"crimeName": "",
+					"crimeDate": "",
+					"chargeType": "",
+					"sentence": "",
+					"numberOfAccusers": "",
+					"crimeDescription": "Rap isn’t exactly known for it’s family-friendly subject matter and language; however, some people still manage to be offended by the explicit lyrics, even if they should know by now what to expect. American rapper 50 Cent learned this the hard way while performing on the Caribbean island of St. Kitts, where he was arrested for using the F-word in one of his songs."
+				}
+			],
+			"mugshot": "mugshots/50Cent.jpg",
+			"sources": [
+				"list25"
+				]
+		},
+		{
+			"name": "Snoop Dogg",
+			"crimes": [
+				{
+					"crimeName": "drug possession, unlawful possession of a firearm",
+					"crimeDate": "",
+					"chargeType": "",
+					"sentence": "",
+					"numberOfAccusers": "",
+					"crimeDescription": "Snoop Dogg has been charged with drug possession five times. He was charged with unlawful possession of a firearm in 2006. He was also charged with murder in 1993, but was acquitted in 1996."
+				}
+			],
+			"mugshot": "mugshots/SnoopDogg.jpg",
+			"sources": [
+				"ranker"
+				]
+		},
+		{
+			"name": "Chris Brown",
+			"crimes": [
+				{
+					"crimeName": "felony assault, domestic violence",
+					"crimeDate": "",
+					"chargeType": "",
+					"sentence": "2009, 2013",
+					"numberOfAccusers": "",
+					"crimeDescription": "Chris Brown was convicted on felony domestic violence in 2009 after he assaulted then girlfriend Rihanna. He was arrested on felony assault in 2013 after allegedly attacking a man in Washington D.C."
+				}
+			],
+			"mugshot": "mugshots/ChrisBrown",
+			"sources": [
+				"ranker"
+				]
+		},
+		{
+			"name": "Courtney Love",
+			"crimes": [
+				{
+					"crimeName": "assault, felony drug charges",
+					"crimeDate": "2003-2004",
+					"chargeType": "",
+					"sentence": "",
+					"numberOfAccusers": "",
+					"crimeDescription": "In 2003, Courtney Love faced felony drug charges. In 2004, she faced felony assault charges after attacking someone with a liquor bottle and a microphone stand."
+				}
+			],
+			"mugshot": "mugshots/CourtneyLove.jpg",
+			"sources": [
+				"ranker"
+				]
+		},
+		{
+			"name": "Eminem",
+			"crimes": [
+				{
+					"crimeName": "possession of a concealed weapon and assault",
+					"crimeDate": "2000",
+					"chargeType": "",
+					"sentence": "",
+					"numberOfAccusers": "",
+					"crimeDescription": "In 2000, Eminem was charged with possession of a concealed weapon and assault. He pulled out a gun to threaten someone, and the following day, he assaulted a man that he claimed was kissing his wife."
+				}
+			],
+			"mugshot": "mugshots/Eminem.jpg",
+			"sources": [
+				"ranker"
+				]
+		},
+		{
+			"name": "Mick Jagger",
+			"crimes": [
+				{
+					"crimeName": "assault, drug charges",
+					"crimeDate": "1972",
+					"chargeType": "",
+					"sentence": "",
+					"numberOfAccusers": "",
+					"crimeDescription": "Rolling Stones singer Mick Jagger was charged with assault in 1972. He has also faced several drug charges throughout his life."
+				}
+			],
+			"mugshot": "mugshots/MickJagger.jpg",
+			"sources": [
+				"list25"
+				]
+		},
+		{
+			"name": "Tupac Shakur",
+			"crimes": [
+				{
+					"crimeName": "sexual battery, assault",
+					"crimeDate": "1993",
+					"chargeType": "",
+					"sentence": "",
+					"numberOfAccusers": "",
+					"crimeDescription": "Rapper Tupac Shakur served 30 days in jail after he pleaded guilty to assaulting a man with a baseball bat in 1993. He was also convicted of sexual battery in 1993, after a woman claimed that she was raped by Shakur and his entourage. He said that he was innocent and that he had consensual sex with the woman."
+				}
+			],
+			"mugshot": "mugshots/TupacShakur.jpg",
+			"sources": [
+				"list25"
+				]
+		},
+		{
+			"name": "Bruno Mars",
+			"crimes": [
+				{
+					"crimeName": "drug possession",
+					"crimeDate": "",
+					"chargeType": "",
+					"sentence": "",
+					"numberOfAccusers": "",
+					"crimeDescription": "Bruno Mars was found in the bathroom of the Hard Rock Hotel & Casino in Las Vegas, Nevada, gripping a bag of cocaine. After he’d been in the restroom for a prolonged period of time, the attendant alerted a security guard, to whom Mars handed the drugs when asked if he had any narcotics on his person. After being detained by hotel security, the singer-songwriter was booked into county jail for carrying 2.6 grams of cocaine.[7] Although not nearly as severe as Tim Allen’s charges, the possession of cocaine is still a felony, regardless of the amount."
+				}
+			],
+			"mugshot": "mugshots/BrunoMars.jpg",
+			"sources": [
+				"list25"
+				]
+		}
+	]
+}
