@@ -13,22 +13,22 @@ export default class CrimeDetails extends Component {
 
     getCrimeDetails() {
         return this.props.person.crimes.map(crime => {
-            let key = 'crime_' + this.props.person.name.replace(' ', '_').toLowerCase();
+            let key = 'crime_' + Math.random() + this.props.person.name.replace(' ', '_').toLowerCase();
 
             return <ul className="crime" key={key}>
-                        <li>Crime: <strong>{crime.crimeName}</strong></li>
-                        <li>Crime Year: <strong>{crime.crimeDate}</strong></li>
-                        <li>Charge Type: <strong>{crime.chargeType}</strong></li>
-                        <li>Crime Description: <strong>{crime.crimeDescription}</strong></li>
-                        <li>Sentence: <strong>{crime.sentence}</strong></li>
-                        <li>Number of Accusers: <strong>{crime.numberOfAccusers}</strong></li>
+                        {crime.crimeName ? <li>Crime: <strong>{crime.crimeName}</strong></li> : null}
+                        {crime.crimeDate ? <li>Crime Year: <strong>{crime.crimeDate}</strong></li> : null}
+                        {crime.chargeType ? <li>Charge Type: <strong>{crime.chargeType}</strong></li> : null}
+                        {crime.crimeDescription ? <li>Crime Description: <strong>{crime.crimeDescription}</strong></li> : null}
+                        {crime.sentence ? <li>Sentence: <strong>{crime.sentence}</strong></li> : null}
+                        {crime.numberOfAccusers ? <li>Number of Accusers: <strong>{crime.numberOfAccusers}</strong></li> : null}
                    </ul>;
         });
     }
 
     getSources() {
         let sourceList = this.props.person.sources.map(source => {
-            let key = 'source_' + this.props.person.name.replace(' ', '_').toLowerCase();
+            let key = 'source_' + Math.random()  + this.props.person.name.replace(' ', '_').toLowerCase();
 
             return <li key={key}><strong>{source}</strong></li>;
         });

@@ -15,11 +15,7 @@ import './less/base.less';
 
 ReactDOM.render(
 	<div>
-		<div id="logo">CelebCrimes</div>
-		<img id="main-image" src="images/shutterstock_752231824.jpg" />
-		<div id="content">
-			<Home />
-		</div>
+		<Home />
 		<div id="footer">
 			Copyright &copy; CelebCrimes All Right Reserved
 		</div>
