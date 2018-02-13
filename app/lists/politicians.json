@@ -3,7 +3,7 @@
     "people" : [
         {
             "name": "Michael Flynn",
-            "mugshot": "mugshots/MichaelFlynn.jpg",
+            "photo": "photos/MichaelFlynn.jpg",
             "crimes": [
                 {
                     "crimeName": "Making false statements",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Corrine Brown",
-            "mugshot" : "mugshots/CorrineBrown.jpg",
+            "photo" : "photos/CorrineBrown.jpg",
             "crimes": [
                 {
                     "crimeName": "Fraud, Tax Evasion",
@@ -33,7 +33,7 @@
         },
         {
             "name": "Greg Gianforte",
-            "mugshot": "mugshots/GregGianforte.jpg",
+            "photo": "photos/GregGianforte.jpg",
             "crimes": [
                 {
                 "crimeName": "Assault",
@@ -48,7 +48,7 @@
         },
         {
             "name": "General David Petraeus",
-            "mugshot": "mugshots/GeneralDavidPetraeus.jpg",
+            "photo": "photos/GeneralDavidPetraeus.jpg",
             "crimes": [
                 {
                     "crimeName": "Making false statements, Violating Espionage Act",
@@ -63,7 +63,7 @@
         },
         {
             "name": "Dennis Hastert",
-            "mugshot": "mugshots/DennisHastert.jpg",
+            "photo": "photos/DennisHastert.jpg",
             "crimes": [
                 {
                     "crimeName": "Structuring",
@@ -87,7 +87,7 @@
         },
         {
             "name": "Trey Radel",
-            "mugshot": "mugshots/TreyRadel.jpg",
+            "photo": "photos/TreyRadel.jpg",
             "crimes": [
                 {
                     "crimeName": "Cocaine Posession",
@@ -102,7 +102,7 @@
         },
         {
             "name": "Jessie Jackson, Jr.",
-            "mugshot": "mugshots/JessieJacksonJr.jpg",
+            "photo": "photos/JessieJacksonJr.jpg",
             "crimes": [
                 {
                     "crimeName": "Fraud",
@@ -117,7 +117,7 @@
         },
         {
             "name": "Scott Bloch",
-            "mugshot": "mugshots/ScottBloch.jpg",
+            "photo": "photos/ScottBloch.jpg",
             "crimes": [
                 {
                     "crimeName": "Contempt of Congress",
@@ -132,7 +132,7 @@
         },
         {
             "name": "James Traficant",
-            "mugshot": "mugshots/JamesTraficant.jpg",
+            "photo": "photos/JamesTraficant.jpg",
             "crimes": [
                 {
                     "crimeName": "Financial Corruption",

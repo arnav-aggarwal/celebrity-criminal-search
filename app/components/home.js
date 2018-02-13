@@ -23,8 +23,10 @@ export default class Home extends Component {
     getListItems(list) {
         return list.people.map(person => {
             return <li key={person.name.replace(' ', '_').toLowerCase()}>
-                       {person.name}
-                       <a onClick={()=> this.viewCrimeDetails(event, person, list)}>View Crime Details</a>
+                        <span onClick={()=> this.viewCrimeDetails(event, person, list)}>
+                            {person.aka ? person.aka : person.name}
+                        </span>
+                       <a onClick={()=> this.viewCrimeDetails(event, person, list)}>View</a>
                    </li>;
         });
     }
@@ -65,18 +67,18 @@ export default class Home extends Component {
                         <div id="content">
                             <div className="list-preview">
                                 <div className="list-heading">
-                                    <span>{MeTooList.heading}</span>
-                                </div>
-                                <ul>
-                                    {this.getListItems(MeTooList)}
-                                </ul>
-                            </div>
-                            <div className="list-preview">
-                                <div className="list-heading">
                                     <span>{ActorsList.heading}</span>
                                 </div>
                                 <ul>
                                     {this.getListItems(ActorsList)}
+                                </ul>
+                            </div>
+                            <div className="list-preview">
+                                <div className="list-heading">
+                                    <span>{MeTooList.heading}</span>
+                                </div>
+                                <ul>
+                                    {this.getListItems(MeTooList)}
                                 </ul>
                             </div>
                             <div className="list-preview">
