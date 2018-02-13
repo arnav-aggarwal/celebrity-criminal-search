@@ -2,174 +2,352 @@
     "heading": "Musicians",
 	"people": [
 		{
-			"name": "Marilyn Manson",
+			"name": "Brian Hugh Warner",
+			"aka": "Marilyn Manson",
+			"dob": "January 5, 1969",
+			"height": "6' 1\"",
 			"crimes": [
 				{
-					"crimeName": "Faking a sexual act, impersonating a Catholic bishop and more",
-					"crimeDate": "",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "Marilyn Manson has always been a strange character, making it no surprise that he has been arrested for charges such as faking a sexual act, impersonating a Catholic bishop, and exposing himself during a performance. One of his strangest accusations, however, came in 2001 when he assaulted a security guard at one of his concerts, reportedly rubbing his crotch and genitalia on the man’s forehead."
+					"offense_date": "July 30, 2001",
+					"case_type": "Civil suit",
+					"original_charges": "Assault and battery, criminal sexual misconduct",
+					"reduced_charges": "Misdemeanor disorderly conduct",
+					"plaintiff": "Joshua Keasler",
+					"crime_location": "Oakland County, Clarkston, Michigan",
+					"plea": "No contest",
+					"fine": "$4000"
+				},
+				{
+					"charged_filed_date": "April 3, 2002",
+					"case_type": "Lawsuit",
+					"plaintiff": "Maria St. John",
+					"court": "Los Angeles Superior Court",
+					"notes": "Accused Manson of providing her adult daughter, Jennifer Syme, with cocaine and instructing her to drive while under the influence"
 				}
 			],
-			"mugshot": "mugshots/MarilynManson.jpg",
+			"photo": "photos/MarilynManson.jpg",
 			"sources": [
-				"list25"
-				]
+				"Wikipedia"
+			]
 		},
 		{
-			"name": "Jay Z",
+			"name": "Shawn Corey Carter",
+			"aka": "Jay Z",
+			"known_for": "American rapper and businessman",
+			"dob": "December 4, 1969",
+			"height": "6' 2\"",
 			"crimes": [
 				{
-					"crimeName": "",
-					"crimeDate": "1999",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "In December of 1999, American rap artist Jay Z was accused of stabbing a record executive in the stomach at a nightclub in Manhattan. Although he originally plead innocent to the charges, in 2001 he admitted he was guilty of the misdemeanor and accepted a three-year prohibition sentence."
+					"offense_date": "December 1, 1999",
+					"charges": "2nd degree assault",
+					"charge_level": "Felony",
+					"notes": "Jay-Z, who had come to believe that record executive Lance Rivera was behind the bootlegging of Vol. 3..., allegedly stabbed Rivera at the release party for Q-Tip's album Amplified at the Kit Kat Klub...in the stomach with a five-inch (127 mm) blade",
+					"arrest_date": "December 2, 1999",
+					"bail_amount": "$50,000",
+					"indictment_date": "late January 2000",
+					"court": "Manhattan Criminal Court",
+					"plea": "Not guilty to 2nd degree assault, guilty to misdemeanor",
+					"sentence": "3 years probation"
 				}
 			],
+			"photo": "photos/JayZ.jpg",
 			"mugshot": "mugshots/JayZ.jpg",
 			"sources": [
-				"list25"
-				]
+				"Wikipedia"
+			]
 		},
 		{
-			"name": "50 Cent",
+			"name": "Curtis James Jackson III",
+			"aka": "50 Cent",
+			"dob": "July 6, 1975",
+			"height": "6' 0\"",
 			"crimes": [
 				{
-					"crimeName": "",
-					"crimeDate": "",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "Rap isn’t exactly known for it’s family-friendly subject matter and language; however, some people still manage to be offended by the explicit lyrics, even if they should know by now what to expect. American rapper 50 Cent learned this the hard way while performing on the Caribbean island of St. Kitts, where he was arrested for using the F-word in one of his songs."
+					"offense_date": "June 29, 1994",
+					"charges": "Criminal Possession of a Controlled Substance, Criminal Sale of a Controlled Substance",
+					"charges_level": "Felony",
+					"crime_location": "Queens, New York",
+					"case_number": "94R6378JACCUR",
+					"courts": "Queens Court, New York Court",
+					"sentence": "3-9 years in prison, ended up serving only 6 months in a boot camp",
+					"notes": "Jackson was arrested for selling 4 vials of cocaine to an undercover police officer. He was arrested again three weeks later, when police searched his home and found heroin, ten ounces of crack cocaine and a starter's pistol."
+				}, {
+					"offense_date": "December 31, 2002",
+					"charges": "Criminal possession of a weapon (2 counts)",
+					"notes": "Police found a .25-caliber handgun and a .45-caliber pistol in a parked car (which they searched due to its tinted windows) outside a Manhattan nightclub"
+				},
+				{
+					"offense_date": "May 2004",
+					"charges": "Assault and battery (3 counts)",
+					"sentence_date": "July 22, 2005",
+					"sentence": "2 years probation",
+					"notes": "For jumping into an audience when he was hit by a water bottle"
 				}
 			],
-			"mugshot": "mugshots/50Cent.jpg",
+			"photo": "photos/50Cent.jpg",
 			"sources": [
-				"list25"
-				]
+				"Wikipedia",
+				"Dept Of State - Warrants (New York)"
+			]
 		},
 		{
-			"name": "Snoop Dogg",
+			"name": "Calvin Cordozar Broadus Jr",
+			"aka": "Snoop Dogg",
+			"dob": "October 20, 1971",
+			"height": "6' 4\"",
 			"crimes": [
 				{
-					"crimeName": "drug possession, unlawful possession of a firearm",
-					"crimeDate": "",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "Snoop Dogg has been charged with drug possession five times. He was charged with unlawful possession of a firearm in 2006. He was also charged with murder in 1993, but was acquitted in 1996."
+					"offense_date": "1990",
+					"charges": "Possession of drugs for sale",
+					"charge_level": "Felony",
+					"disposition": "Convicted"
+				},
+				{
+					"offense_date": "July 1993",
+					"charges": "Possession of a handgun",
+					"plea_date": "February 1997",
+					"plea": "Guilty",
+					"sentence": "Ordered to record 3 public service announcements, 3 years probation",
+					"fine": "$1000"
+				},
+				{
+					"arrest_date": "August 1993",
+					"charges": "Murder",
+					"victim": "Philip Woldemariam",
+					"disposition": "Acquitted on grounds of self-defense",
+					"notes": "Arrested in connection with the death of Philip Woldemariam, a member of a rival gang who was shot and killed by Snoop's bodyguard, McKinley Lee...he [Snoop] was driving the vehicle from which the shooting took place"
+				},
+				{
+					"offense_date": "Oct. 17, 2001",
+					"charges_filed_date": "Oct. 18, 2001",
+					"charges": "Possess Marijuana M4",
+					"crime_location": "Lorain, Ohio",
+					"arresting_agency": "Ohio State Patrol",
+					"case_number": "01CRB00973",
+					"fine": "$398.30",
+					"plea": "Not guilty",
+					"disposition": "guilty",
+					"prosecutor": "James Leo Walsh"
+				},
+				{
+					"offense_date": "April 26, 2006",
+					"charges": "Vandalism",
+					"crime_location": "British Airways' first class lounge at Heathrow Airport in London",
+					"outcome": "Released on bail, denied entry to the UK for the foreseeable future...as of March 2010, Snoop Dogg has been allowed back into the UK.",
+					"notes": "Snoop and his party were denied entry to the lounge due to some members flying in economy class. After being escorted outside, the group vandalized a duty-free shop with whiskey bottles. 7 police officers were injured in the midst of the disturbance."
+				},
+				{
+					"offense_date": "September 2006",
+					"crime_location": "John Wayne Airport in Orange County, CA",
+					"sentence_start_date": "September 2007",
+					"sentence": "3 years probation",
+					"community_service": "160 hours",
+					"notes": "Detained by airport security, after airport screeners found a collapsible police baton in Snoop's carry-on bag"
+				},
+				{
+					"offense_date": "October 2006",
+					"charges": "Possession of a firearm, suspicion of transporting an unspecified amount of marijuana",
+					"crime_location": "Bob Hope Airport in Burbank, CA"
+				},
+				{
+					"offense_date": "November 2006",
+					"charges": "Drug (marijuana, cocaine) and gun possession by a convicted felon (2 counts)",
+					"charge_level": "Felony",
+					"plea": "No contest",
+					"sentence_date": "April 2007",
+					"sentence": "3 years suspended sentence, 5 years probation, prohibited from hiring anyone with a criminal record or gang affiliation as a security guard or a driver",
+					"community_service": "800 hours"
 				}
 			],
-			"mugshot": "mugshots/SnoopDogg.jpg",
+			"photo": "photos/SnoopDogg.jpg",
 			"sources": [
-				"ranker"
-				]
+				"Wikipedia",
+				"Lorain County - Oberlin Municipal Court (Ohio)"
+			]
 		},
 		{
-			"name": "Chris Brown",
+			"name": "Christopher Maurice Brown",
+			"aka": "Chris Brown",
+			"dob": "May 5, 1989",
+			"height": "6' 1\"",
 			"crimes": [
 				{
-					"crimeName": "felony assault, domestic violence",
-					"crimeDate": "",
-					"chargeType": "",
-					"sentence": "2009, 2013",
-					"numberOfAccusers": "",
-					"crimeDescription": "Chris Brown was convicted on felony domestic violence in 2009 after he assaulted then girlfriend Rihanna. He was arrested on felony assault in 2013 after allegedly attacking a man in Washington D.C."
+					"offense_date": "February 8, 2009",
+					"charges_filed_date": "March 5, 2009",
+					"charges": "Assault and making criminal threats",
+					"charge_level": "Felony",
+					"victim": "Rihanna",
+					"booked_at": " Los Angeles PD's Wilshire station",
+					"plea_date": "June 22, 2009",
+					"plea": "Guilty",
+					"plea_deal": "Community labor, 5 years of probation, and domestic violence counseling",
+					"sentence_date": "August 25, 2009",
+					"sentence": "5 years of probation, 1 year of domestic violence counseling, and 6 months of community service",
+					"notes": "Brown and his then-girlfriend, recording artist Rihanna, had an argument which escalated into physical violence, leaving Rihanna with visible facial injuries which required hospitalization"
 				}
 			],
-			"mugshot": "mugshots/ChrisBrown",
+			"photo": "photos/ChrisBrown",
 			"sources": [
-				"ranker"
-				]
+				"Wikipedia"
+			]
 		},
 		{
-			"name": "Courtney Love",
+			"name": "Courtney Michelle Love",
+			"aka": "Courtney Love",
+			"dob": "July 9, 1964",
+			"height": "5' 10\"",
 			"crimes": [
 				{
-					"crimeName": "assault, felony drug charges",
-					"crimeDate": "2003-2004",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "In 2003, Courtney Love faced felony drug charges. In 2004, she faced felony assault charges after attacking someone with a liquor bottle and a microphone stand."
+					"offense_date": "July 4, 1995",
+					"charges": "Assault",
+					"crime_location": "Lollapalooza Festival in George, Washington",
+					"victim": "Kathleen Hanna",
+					"plea": "Guilty",
+					"sentence": "Anger management classes",
+					"notes": "She punched musician Kathleen Hanna in the face after alleging she had made a joke about her daughter"
+				},
+				{
+					"arrest_date": "October, 2003",
+					"crime_location": "Los Angeles",
+					"charges": "Being under the influence of a controlled substance",
+					"outcome": "Lost custody of her daughter",
+					"notes": "broke several windows of her producer and then-boyfriend James Barber's home"
+				},
+				{
+					"arrest_date": "March 18, 2004",
+					"charges": "Disorderly conduct",
+					"crime_location": "New York City",
+					"plea_date": "October 2004",
+					"plea": "Guilty",
+					"notes": "Love allegedly struck a 24-year-old male fan with a microphone stand at a concert at the Bowery Ballroom"
+				},
+				{
+					"arrest_date": "July 9, 2004",
+					"charges": "Failure to appear in court",
+					"outcome": "Released to a rehab facility 2 days later",
+					"notes": "Was taken to Bellevue Hospital, allegedly incoherent, where she was put on a 72-hour watch"
+				},
+				{
+					"offense_dates": "2005 - 2006",
+					"charges": "Making several public appearances clearly intoxicated, drug-related arrests and probation violations",
+					"sentence": "6 months in lockdown rehab due to struggles with prescription drugs and cocaine"
 				}
 			],
-			"mugshot": "mugshots/CourtneyLove.jpg",
+			"photo": "photos/CourtneyLove.jpg",
 			"sources": [
-				"ranker"
-				]
+				"Wikipedia"
+			]
 		},
 		{
-			"name": "Eminem",
+			"name": "Marshall Bruce Mathers III",
+			"aka": "Eminem",
+			"dob": "October 17, 1972",
 			"crimes": [
 				{
-					"crimeName": "possession of a concealed weapon and assault",
-					"crimeDate": "2000",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "In 2000, Eminem was charged with possession of a concealed weapon and assault. He pulled out a gun to threaten someone, and the following day, he assaulted a man that he claimed was kissing his wife."
+					"arrest_date": "June 3, 2000",
+					"charges": "Possession of a concealed weapon",
+					"crime_location": "Royal Oak, Michigan",
+					"plea": "Guilty",
+					"sentence": "2 years probation",
+					"notes": "During an altercation with Douglas Dail at a car-audio store, Eminem pulled out an unloaded gun and pointed it at the ground"
+				},
+				{
+					"arrest_date": "June 4, 2000",
+					"charges": "Assault",
+					"crime_location": "Parking lot of the Hot Rock Café in Warren, Michigan",
+					"victim": "John Guerrera",
+					"notes": "Assaulted John Guerrera when he saw him kissing his wife"
+				},
+				{
+					"charges": "Weapon charges",
+					"sentence_date": "June 28, 2001",
+					"sentence": "1 year's probation and community service",
+					"fine": "about $2000",
+					"notes": "Stemming from an argument with an employee of Psychopathic Records"
 				}
 			],
+			"photo": "photos/Eminem.jpg",
 			"mugshot": "mugshots/Eminem.jpg",
 			"sources": [
-				"ranker"
-				]
+				"Wikipedia"
+			]
 		},
 		{
-			"name": "Mick Jagger",
+			"name": "Sir Michael Philip Jagger",
+			"aka": "Mick Jagger",
+			"dob": "July 26, 1943",
+			"height": "5' 10\"",
 			"crimes": [
 				{
-					"crimeName": "assault, drug charges",
-					"crimeDate": "1972",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "Rolling Stones singer Mick Jagger was charged with assault in 1972. He has also faced several drug charges throughout his life."
+					"arrest_date": "February 12, 1967",
+					"charges": "Drug possession",
+					"crime_location": "Keith Richards' West Sussex, England home",
+					"court_date": "May 10, 1967",
+					"outcome": "Released on bail",
+					"bail_amount": "$200",
+					"sentence_date": "June 29, 1967",
+					"sentence": "3 months in jail"
+				},
+				{
+					"charges": "Assault",
+					"victim": "Lisa Carpenter, 27, freelance paparazzi photographer",
+					"plea": "Guilty",
+					"notes": "Jagger exploded in a fit of rage and assaulted Carpenter, wrenching the cord of her camera around her neck until she screamed in pain and begged him to stop"
 				}
 			],
+			"photo": "photos/MickJagger.jpg",
 			"mugshot": "mugshots/MickJagger.jpg",
 			"sources": [
-				"list25"
-				]
+				"Daily Mail"
+			]
 		},
 		{
-			"name": "Tupac Shakur",
+			"name": "Tupac Amaru Shakur",
+			"aka": "Tupac Shakur",
+			"dob": "June 16, 1971",
 			"crimes": [
 				{
-					"crimeName": "sexual battery, assault",
-					"crimeDate": "1993",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "Rapper Tupac Shakur served 30 days in jail after he pleaded guilty to assaulting a man with a baseball bat in 1993. He was also convicted of sexual battery in 1993, after a woman claimed that she was raped by Shakur and his entourage. He said that he was innocent and that he had consensual sex with the woman."
+					"charges_filed_date": "November 1993",
+					"charges": "Sexual assault, rape",
+					"disposition": "Convicted of 1st degree sexual abuse, acquitted of the weapons and sodomy charges",
+					"sentence_date": "December 1, 1994",
+					"sentence": "1 and a half – 4 and a half years in prison",
+					"sentence_start_date": "February 14, 1995",
+					"facility": "Clinton Correctional Facility",
+					"released_on_bail_date": "October 12, 1995",
+					"bail_amount": "$1.4 million",
+					"time_served": "9 months",
+					"sentence_for_violating_terms_of_release_date": "April 5, 1996",
+					"sentence_for_violating_terms_of_release": "120 days in jail"
 				}
 			],
-			"mugshot": "mugshots/TupacShakur.jpg",
+			"photo": "photos/TupacShakur.jpg",
 			"sources": [
-				"list25"
-				]
+				"Wikipedia"
+			]
 		},
 		{
-			"name": "Bruno Mars",
+			"name": "Peter Gene Hernandez",
+			"aka": "Bruno Mars",
+			"dob": "October 8, 1985",
+			"height": "5' 5\"",
 			"crimes": [
 				{
-					"crimeName": "drug possession",
-					"crimeDate": "",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "Bruno Mars was found in the bathroom of the Hard Rock Hotel & Casino in Las Vegas, Nevada, gripping a bag of cocaine. After he’d been in the restroom for a prolonged period of time, the attendant alerted a security guard, to whom Mars handed the drugs when asked if he had any narcotics on his person. After being detained by hotel security, the singer-songwriter was booked into county jail for carrying 2.6 grams of cocaine.[7] Although not nearly as severe as Tim Allen’s charges, the possession of cocaine is still a felony, regardless of the amount."
+					"arrest_date": "September 19, 2010",
+					"crime_location": "Hard Rock Casino, Las Vegas, NV",
+					"charges": "Possession of a controlled substance (cocaine)",
+					"charge_level": "Felony",
+					"plea": "Guilty",
+					"plea_deal": "Charges would be erased from his criminal record as long as he stayed out of trouble for a year",
+					"sentence": "drug counseling course",
+					"fine": "$2000",
+					"community_service": "200 hours"
 				}
 			],
-			"mugshot": "mugshots/BrunoMars.jpg",
+			"photo": "photos/BrunoMars.jpg",
 			"sources": [
-				"list25"
-				]
+				"Wikipedia"
+			]
 		}
 	]
 }

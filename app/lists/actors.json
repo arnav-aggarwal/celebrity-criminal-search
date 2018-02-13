@@ -3,174 +3,333 @@
 	"people": [
 		{
 			"name": "Robert Downey Jr.",
+			"dob": "April 4, 1965",
 			"crimes": [
 				{
-					"crimeName": "Possession of cocaine, heroin, and marijuana",
-					"crimeDate": "1996 to 2001",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "With a Golden Globe and several academy awards under his belt, Robert Downey Jr. is not a lightweight when it comes to acting. Unfortunately, he wasn’t a lightweight when it came to drugs and alcohol either, and in the years of 1996 to 2001, he racked up a number of arrests for possession of cocaine, heroin, and marijuana. After spending a number of years in and out of rehab, he seems to have finally straightened out his life, and we all wish him the very best."
+					"charges": "Possession of a Narcotic Controlled Substance, Under the Influence of a Controlled Substance, Driving While Under The Influence Alcohol/Drugs",
+					"charge_level": "Felony",
+					"offense_codes": ["11350"],
+					"crime_location": "Los Angeles, California",
+					"hearing_date": "July 29, 1996",
+					"case_number": "026050"
+				},
+				{
+					"offense_date": "December 11, 2000",
+					"charges": "Possession of cocaine, heroin, and marijuana",
+					"charge_level": "Felony",
+					"offense_codes": ["H 11350.A", "H 11550.A", "P 12025.A", "V 23152.A"],
+					"crime_location": "Riverside, California",
+					"case_number": "INF036386",
+					"court": "CA Riverside Superior Court"
 				}
 			],
+			"photo": "photos/RobertDowneyJr.jpg",
 			"mugshot": "mugshots/RobertDowneyJr.jpg",
 			"sources": [
-				"list25"
-				]
+				"City Of Indio",
+				"Los Angeles County"
+			]
 		},
 		{
-			"name": "Michelle Rodriguez",
+			"name": "Mayte Michelle Rodriguez",
+			"aka": "Michelle Rodriguez",
+			"dob": "July 12, 1978",
+			"height": "5' 4\"",
 			"crimes": [
 				{
-					"crimeName": "Driving under the influence",
-					"crimeDate": "2006",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "American actress Michelle Rodriguez was arrested in Hawaii while filming an episode of Lost in 2006 on the charges of driving under the influence. She received probation and community service; however, less then a year later, she had violated the conditions and faked service forms, resulting in 180 days of jail time."
+					"offense_year": "2006",
+					"charges": "Driving under the influence",
+					"notes": "American actress Michelle Rodriguez was arrested in Hawaii while filming an episode of Lost in 2006 on the charges of driving under the influence. She received probation and community service; however, less then a year later, she had violated the conditions and faked service forms, resulting in 180 days of jail time."
+				},
+				{
+					"arrest_date": "December 23, 2007",
+					"age_at_time_of_arrest": "29",
+					"charges": "Driving with license suspended/revoked for other reason",
+					"charge_level": "Misdemeanor",
+					"offense_codes": ["14601.1avc"],
+					"detained_at": "LASD-Century Regional Detention Facility",
+					"booking_number": "1107251",
+					"release_date": "January 9, 2008",
+					"case_number": "3MT1096701"
 				}
 			],
-			"mugshot": "mugshots/MichelleRodriguez.jpg",
+			"photo": "photos/MichelleRodriguez.jpg",
 			"sources": [
-				"list25"
-				]
+				"Los Angeles County Sheriff'S Department - Arrests"
+			]
 		},
 		{
-			"name": "Will Smith",
+			"name": "Willard Carroll Smith Jr.",
+			"aka": "Will Smith",
+			"dob": "September 25, 1968",
+			"height": "6' 2\"",
 			"crimes": [
 				{
-					"crimeName": "",
-					"crimeDate": "1989",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "Despite his reputation for being fun-loving and happy most of the time, Will Smith was arrested in 1989 after a violent altercation that left the victim nearly blind in one eye. Reportedly, Smith and his bodyguard attacked the man after a heated argument, leaving him with a fractured left orbital bone and needing six stitches in his face."
+					"offense_year": "1989",
+					"age_at_time_of_arrest": "20",
+					"charges": "Aggravated assault, criminal conspiracy, simple assault and recklessly endangering another person",
+					"arresting_agency": "West Philadelphia PD",
+					"disposition": "Charges dismissed",
+					"notes": "Will Smith was arrested in 1989 after a violent altercation that left the victim nearly blind in one eye. Reportedly, Smith and his bodyguard attacked the man after a heated argument, leaving him with a fractured left orbital bone and needing six stitches in his face."
 				}
 			],
+			"photo": "photos/WillSmith.jpg",
 			"mugshot": "mugshots/WillSmith.jpg",
 			"sources": [
 				"list25"
-				]
+			]
 		},
 		{
-			"name": "Mark Wahlberg",
+			"name": "Mark Robert Michael Wahlberg",
+			"aka": "Mark Wahlberg",
+			"dob": "June 5, 1971",
+			"height": "5' 8\"",
 			"crimes": [
 				{
-					"crimeName": "",
-					"crimeDate": "",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "Born in Dorchester, Massachusetts, Mark Wahlberg received his first civil action at 15 for harassing African-American children, and a year later, he was arrested for beating a middle-aged Vietnamese man nearly to death with a large wooden stick. He also developed a serious cocaine addiction at a very young age and dealt drugs for a source of income. At 19, he decided to clean up his life and joined a band with his older brother, eventually striking out on his own to make it big with his own band: Marky Mark and the Funky Bunch."
+					"offense_year": "1986",
+					"age_at_time_of_offense": "15",
+					"charges": "Throwing rocks and shouting racial epithets at African-American children",
+					"charge_level": "Civil Action",
+					"notes": "The first incident was against two brothers and their sister; the second incident was against a group of school children on a field trip"
+				},
+				{
+					"offense_year": "1987",
+					"age_at_time_of_arrest": "16",
+					"charges": "Attempted murder",
+					"charge_level": "Felony",
+					"victims": "Thanh Lam and Hoa Trinh",
+					"plea": "Plead guilty to assault",
+					"sentence": "2 years",
+					"time_served": "45 days",
+					"facility": "Suffolk County Deer Island House of Correction",
+					"notes": "Wahlberg approached a middle-aged Vietnamese man named Thanh Lam on the street, and using a large wooden stick, bashed him over the head until he was knocked unconscious while calling him a \"Vietnam fucking shit\". That same day, Wahlberg also attacked a second Vietnamese man named Hoa \"Johnny\" Trinh, sucker punching him in the eye."
+				},
+				{
+					"offense_year": "1992",
+					"age_at_time_of_offense": "21",
+					"charges": "Assault",
+					"accomplice": "Derek McCall",
+					"victim": "Robert D. Crehan",
+					"notes": "Wahlberg fractured the jaw of a neighbor in an unprovoked attack."
+
 				}
 			],
-			"mugshot": "mugshots/MarkWahlberg.jpg",
+			"photo": "photos/MarkWahlberg.jpg",
 			"sources": [
-				"list25"
-				]
+				"Wikipedia"
+			]
 		},
 		{
-			"name": "Matthew McConaughey",
+			"name": "Matthew David McConaughey",
+			"aka": "Matthew McConaughey",
+			"dob": "November 4, 1969",
+			"height": "6' 0\"",
 			"crimes": [
 				{
-					"crimeName": "",
-					"crimeDate": "",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "Matthew McConaughey was arrested in 1999 after local authorities were alerted of noise complaints from his upscale neighborhood in Austin, Texas. The police arrived at McConaughey’s house at around 3 o’clock in the morning, only to find him sitting naked in his living room enthusiastically playing bongos. He was taken into custody and charged with violating Austin’s noise ordinance, resisting arrest and, unsurprisingly, marijuana use."
+					"arrest_year": "1999",
+					"age_at_time_of_arrest": "29",
+					"charges": "Violating Austin’s noise ordinance, resisting arrest and marijuana use",
+					"charge_level": "Misdemeanor",
+					"bond": "$1,000",
+					"notes": "Matthew McConaughey was arrested after local authorities were alerted of noise complaints from his upscale neighborhood in Austin, Texas. The police arrived at McConaughey’s house at around 3 o’clock in the morning, only to find him sitting naked in his living room enthusiastically playing bongos. He was taken into custody and charged with violating Austin’s noise ordinance, resisting arrest and, unsurprisingly, marijuana use."
 				}
 			],
+			"photo": "photos/MatthewMcConaughey.jpg",
 			"mugshot": "mugshots/MatthewMcConaughey.jpg",
 			"sources": [
 				"list25"
-				]
+			]
 		},
 		{
-			"name": "Lindsay Lohan",
+			"name": "Lindsay Dee Lohan",
+			"aka": "Lindsay Lohan",
+			"dob": "July 2, 1986",
+			"height": "5' 7\"",
 			"crimes": [
 				{
-					"crimeName": "DUI, possession of cocaine, assault and more",
-					"crimeDate": "",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "In and out of jail since her first arrest for a DUI in 2007, Lindsay Lohan has been repeatedly busted for driving under the influence, possession of cocaine, assault, and even one hit and run. Her probation and frequent trouble with the police has, unfortunately, led her to missing out on a number of movie deals."
+					"arrest_date": "July 24, 2007",
+					"age_at_time_of_arrest": "21",
+					"charges": "Driving Under the Influence (DUI), possession of cocaine, assault",
+					"charge_level": "Felony",
+					"arresting_agency": "Santa Monica PD",
+					"booking_number": "9699557",
+					"bail_amount": "$25,000.00"
+				},
+				{
+					"probation_revoked_date": "September 2010",
+					"probation_revoked_reason": "Failed drug test",
+					"outcome": "Entered the Betty Ford Center, a drug and alcohol treatment center, where she remained on court order for 3 months until early January 2011",
+					"charged_date": "February 2011",
+					"charges": "Theft of a necklace, Probation violation",
+					"charge_level": "Misdemeanor",
+					"plea": "No contest",
+					"sentence": "120 days in jail, community service",
+					"notes": "Due to jail overcrowding, Lohan served the sentence under house confinement, wearing a tracking ankle monitor for 35 days"
+				},
+				{
+					"probation_revoked_date": "November 2011",
+					"probation_revoked_reason": "Failed to perform the required community service",
+					"sentence": "Additional community service and 30 days in jail",
+					"notes": "Again, due to overcrowding, she served less than 5 hours."
+				},
+				{
+					"offense_date": "June 2012",
+					"charges": "Reckless driving and providing false information to a police officer",
+					"charge_level": "Misdemeanor",
+					"plea_date": "March 2013",
+					"plea": "No contest",
+					"sentence": "Community service, psychotherapy and lockdown rehabilitation, her probation was also extended for another 2 years",
+					"notes": "Between May and July 2013 Lohan spent 90 days in rehabilitation"
 				}
 			],
+			"photo": "photos/LindsayLohan.jpg",
 			"mugshot": "mugshots/LindsayLohan.jpg",
+			"mugshot2": "mugshots/LindsayLohan2.jpg",
 			"sources": [
-				"list25"
-				]
+				"Los Angeles County Sheriff'S Department - Arrests",
+				"Wikipedia"
+			]
 		},
 		{
-			"name": "Johnny Depp",
+			"name": "John Christopher Depp II",
+			"aka": "Johnny Depp",
+			"dob": "June 9, 1963",
+			"height": "5' 10\"",
 			"crimes": [
 				{
-					"crimeName": "assault",
-					"crimeDate": "",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "In May 2016, actress Amber Heard filed for a divorce and restraining order from actor Johnny Depp. Heard alleged that Depp physically and emotionally abused her throughout the entirety of their brief marriage. Heard even detailed an incident in which Depp took her cell phone and smacked her across the face with it. Heard documented her purported injuries from the incident with photos. The two have been in-and-out of divorce proceedings for several months, but have recently come to a settlement. Heard received $7 million from Depp, which she then donated the entirety of to charity."
+					"charges": "Assault",
+					"accuser": "Amber Heard",
+					"notes": "In May 2016, actress Amber Heard filed for a divorce and restraining order from actor Johnny Depp. Heard alleged that Depp physically and emotionally abused her throughout the entirety of their brief marriage. Heard even detailed an incident in which Depp took her cell phone and smacked her across the face with it. Heard documented her purported injuries from the incident with photos. The two have been in-and-out of divorce proceedings for several months, but have recently come to a settlement. Heard received $7 million from Depp, which she then donated the entirety of to charity."
 				}
 			],
-			"mugshot": "mugshots/JohnnyDepp.jpg",
+			"photo": "photos/JohnnyDepp.jpg",
 			"sources": [
 				"ranker"
 				]
 		},
 		{
-			"name": "Mel Gibson",
+			"name": "Mel Colmcille Gerard Gibson",
+			"aka": "Mel Gibson",
+			"dob": "January 3, 1956",
+			"height": "5' 10\"",
 			"crimes": [
 				{
-					"crimeName": "felony, DUI",
-					"crimeDate": "",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "Mel Gibson took a plea deal to avoid facing felony charges of battery in 2011. He has also been charged with DUIs on multiple occasions.\n\nFamous on-screen warrior Mel Gibson has unfortunately carried his violence offscreen, as he faced misdemeanor spousal battery charges in 2011. Gibson appeared in a Los Angeles courtroom within days of the charges and reportedly said very little, aside from acknowledging the charged crimes and accepting a plea deal. The no contest plea involved no jail time but rather 36 months of probation and a mandatory 52 weeks of domestic violence counseling.[2]Gibson’s partner, Oksana Grigorieva, accused him of striking her during a dispute in early 2010. She did not attend the hearing, preferring to concentrate on “moving forward with her life,” according to her lawyers. The next time Braveheart makes its way to your television, consider the fact that Gibson was officially charged with mimicking this ferocious behavior in real life."
+					"arrest_date": "July 28, 2006",
+					"age_at_time_of_arrest": "51",
+					"charges": "Drunk Driving Alcohol/Drugs",
+					"charge_level": "Misdemeanor",
+					"offense_codes": ["23152A"],
+					"arresting_agency": "LASD - Malibu Station Patrol",
+					"booking_number": "9141935",
+					"bail_amount": "$5,000.00"
+				},
+				{
+					"arrest_date": "March 16, 2011",
+					"age_at_time_of_arrest": "55",
+					"charges": "Spousal Battery",
+					"charge_level": "Misdemeanor",
+					"arresting_agency": "El Segundo PD",
+					"booking_number": "2676383",
+					"bail_amount": "$20,000.00",
+					"notes": "Mel Gibson took a plea deal to avoid facing felony charges of battery in 2011. He has also been charged with DUIs on multiple occasions.\n\nFamous on-screen warrior Mel Gibson has unfortunately carried his violence offscreen, as he faced misdemeanor spousal battery charges in 2011. Gibson appeared in a Los Angeles courtroom within days of the charges and reportedly said very little, aside from acknowledging the charged crimes and accepting a plea deal. The no contest plea involved no jail time but rather 36 months of probation and a mandatory 52 weeks of domestic violence counseling.[2]Gibson’s partner, Oksana Grigorieva, accused him of striking her during a dispute in early 2010. She did not attend the hearing, preferring to concentrate on “moving forward with her life,” according to her lawyers. The next time Braveheart makes its way to your television, consider the fact that Gibson was officially charged with mimicking this ferocious behavior in real life."
 				}
 			],
+			"photo": "photos/MelGibson.jpg",
 			"mugshot": "mugshots/MelGibson.jpg",
 			"sources": [
+				"Los Angeles County Sheriff'S Department - Arrests",
 				"ranker",
 				"listverse"
-				]
+			]
 		},
 		{
 			"name": "Matthew Broderick",
+			"dob": "March 21, 1962",
+			"height": "5' 8\"",
 			"crimes": [
 				{
-					"crimeName": "Causing death by dangerous driving",
-					"crimeDate": "1987",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "In August 1987, when Matthew Broderick was vacationing in Ireland with his then girlfriend, Dirty Dancing star Jennifer Grey (the couple started dating when filming Ferris Bueller’s Day Off), when something awful happened. Driving a rented BMW, Broderick accidentally drove into the wrong lane (in Ireland, they drive on the left side of the road, with the steering wheel on the right side) and collided head on with a Volvo, killing Anna Gallagher, 28 and her mother Margaret Dorothy, 63 instantly. Broderick fractured his ribs and one leg, and had a concussion as well as a collapsed lung. Grey suffered severe whiplash and some other minor injuries. Broderick was charged with causing death by dangerous driving and faced up to five years in prison, but the charges were reduced to carless driving, with a fine of $175. The victim’s family called it a travesty of justice."
+					"offense_date": "August 5, 1987",
+					"age_at_time_of_arrest": "25",
+					"charges": "Causing death by dangerous driving",
+					"crime_location": "Northern Ireland",
+					"fine": "$175",
+					"victims": "Anna Gallagher and her mother Margaret Doherty",
+					"notes": "In August 1987, when Matthew Broderick was vacationing in Ireland with his then girlfriend, Dirty Dancing star Jennifer Grey (the couple started dating when filming Ferris Bueller’s Day Off), when something awful happened. Driving a rented BMW, Broderick accidentally drove into the wrong lane (in Ireland, they drive on the left side of the road, with the steering wheel on the right side) and collided head on with a Volvo, killing Anna Gallagher, 28 and her mother Margaret Dorothy, 63 instantly. Broderick fractured his ribs and one leg, and had a concussion as well as a collapsed lung. Grey suffered severe whiplash and some other minor injuries. Broderick was charged with causing death by dangerous driving and faced up to five years in prison, but the charges were reduced to carless driving, with a fine of $175. The victim’s family called it a travesty of justice."
 				}
 			],
-			"mugshot": "mugshots/MatthewBroderick.jpg",
+			"photo": "photos/MatthewBroderick.jpg",
 			"sources": [
+				"wikipedia",
 				"therichest"
-				]
+			]
 		},
 		{
-			"name": "Lane Garrison",
+			"name": "Lane Edward Garrison",
+			"aka": "Lane Garrison",
+			"known_for": "The role of David \"Tweener\" Apolskis on Prison Break",
+			"dob": "May 23, 1980",
+			"height": "5' 7\"",
 			"crimes": [
 				{
-					"crimeName": "Vehicular manslaughter without gross negligence and more",
-					"crimeDate": "2006-2009",
-					"chargeType": "",
-					"sentence": "",
-					"numberOfAccusers": "",
-					"crimeDescription": "Lane Garrison is best known for his role on the show Prison Break, but his real life ended up imitating his art. In 2006, Garrison pleaded guilty to vehicular manslaughter without gross negligence, as well as providing alcohol to a minor, after he drove with cocaine in his system with a blood alcohol level of .20, killing the passenger of his car. In May 2007, he was sentenced to 40 months in jail. Garrison was released in April 2009."
+					"offense_date": "Dec. 2, 2006",
+					"age_at_time_of_offense": "26",
+					"charges": "Driving Under the Influence (DUI), Vehicular manslaughter without gross negligence",
+					"offense_codes": ["P192(C)(3)", "V23153(A)"],
+					"crime_location": "California",
+					"victim": "Vahagn Setian",
+					"disposition_date": "October 31, 2007",
+					"court_name": "CA Department of Corrections and Rehabilitation Court",
+					"sentence_date": "October 31, 2007",
+					"sentence": "40 months in jail",
+					"parole_date": "April 2009",
+					"parole_duration": "4 years",
+					"restitution_to_victims_or_families": "$300,000",
+					"notes": "As well as providing alcohol to a minor, after he drove with cocaine in his system with a blood alcohol level of .20, killing the passenger of his car. In May 2007, he was sentenced to 40 months in jail. Garrison was released in April 2009."
+				},
+				{
+					"offense_year": "2012",
+					"age_at_time_of_offense": "32",
+					"charges": "Domestic Battery",
+					"crime_location": "Los Angeles, CA",
+					"accuser": "Ashley Mattingly",
+					"plea": "No contest",
+					"sentence": "Self help classes, 52 AA meetings and 8 hours of community service"
 				}
 			],
+			"photo": "photos/LaneGarrison.jpg",
 			"mugshot": "mugshots/LaneGarrison.jpg",
 			"sources": [
+				"CA Department Of Corrections And Rehabilitation",
+				"Wikipedia",
 				"list25"
-				]
+			]
+		},
+		{
+			"name": "Natasha Bianca Lyonne Braunstein",
+			"aka": "Natasha Lyonne",
+			"known_for": "The role of Jessica in American Pie 2 and the role of Nicky Nichols in Orange Is the New Black",
+			"dob": "April 4, 1979",
+			"height": "5' 3\"",
+			"crimes": [
+				{
+					"offense_date": "August 2001",
+					"charges": "Driving under the influence (DUI) of alcohol",
+					"crime_location": "Miami, FL",
+					"plea_deal": "probation and license suspended for 6 months, pay $1,000 in fines and court fees, perform 50 hours of community service, and take part in a victim’s panel organized by Mothers Against Drunk Driving",
+					"notes": "Last summer, in a 2 a.m. accident, a speeding Lyonne ran her rented Dodge onto a Miami Beach sidewalk, hitting a sign and a bush outside the Fountainebleau Hotel and causing $2,500 in damages. No one was hurt in the single-car crash. Lyonne fled the scene, but an officer who witnessed the accident tracked her down."
+				},
+				{
+					"offense_year": "December 2004",
+					"crime_location": "Manhattan, NY",
+					"charges": "Mischief, trespass, and harassment of a neighbor (and the neighbor’s dog) and destroying property",
+					"outcome": "Charges were dismissed after she completed court-appointed rehab in 2006"
+				}
+			],
+			"mugshot": "mugshots/NatashaLyonne.jpg",
+			"sources": [
+				"wikipedia",
+				"Entertainment Weekly"
+			]
 		}
 	]
 }

@@ -2,137 +2,269 @@
     "heading": "Athletes",
     "people":[
         {
-            "name":"Floyd Mayweather",
-            "mugshot":"mugshots/FloydMayweather.jpg",
+            "name":"Floyd Joy Mayweather Jr",
+            "aka":"Floyd Mayweather",
+            "dob": "February 24, 1977",
+            "height": "5' 8\"",
             "crimes":[
                 {
-                    "crimeName":"Domestic violence & battery",
-                    "crimeDate":"2002",
-                    "chargeType":"felony & misdemeanor",
-                    "sentence":"6 month suspended sentence, 2 days house arrest, 48 hours community service",
-                    "crimeDescription":"In 2002, Mayweather was charged with two counts of domestic violence and one count of misdemeanor battery. He received a six-month suspended sentence and two days of house arrest and was ordered to perform 48 hours of community service.",
-                    "numberOfAccusers":""
+                    "charges": "Domestic violence (2 counts), Battery",
+                    "offense_year": "2002",
+                    "charge_level": "Felony, Misdemeanor",
+                    "sentence": "6 month suspended sentence, 2 days house arrest",
+                    "community_service": "48 hours",
+                    "notes": "In 2002, Mayweather was charged with two counts of domestic violence and one count of misdemeanor battery. He received a six-month suspended sentence and two days of house arrest and was ordered to perform 48 hours of community service."
                 },
                 {
-                    "crimeName":"Battery",
-                    "crimeDate":"2004",
-                    "chargeType":"misdemeanor",
-                    "sentence":"1-year suspended jail sentence, $1000 fine",
-                    "crimeDescription":"In 2004, Mayweather was given a one-year suspended jail sentence, ordered to undergo counseling for \"impulse control\" and pay a $1,000 fine (or perform 100 hours of community service) after being convicted of two counts of misdemeanor battery against two women.",
-                    "numberOfAccusers":"2"
+                    "offense_date": "December 18, 2003",
+                    "age_at_time_of_offense": "26",
+                    "charges": "Contempt of Court, Assault",
+                    "charges_filed_date": "March 30, 2004",
+                    "crime_location": "Kent, Michigan",
+                    "plea": "Guilty (Contempt of Court), Not Guilty (Assault)",
+                    "disposition": "Guilty"
                 },
                 {
-                    "crimeName":"Battery",
-                    "crimeDate":"2005",
-                    "chargeType":"misdemeanor",
-                    "sentence":"90 days",
-                    "crimeDescription":"In 2005, Mayweather pleaded no contest to a misdemeanor battery charge after hitting and kicking a bouncer, receiving a 90-day suspended jail sentence.",
-                    "numberOfAccusers":"1"
+                    "charges": "Battery (2 counts)",
+                    "offense_year": "2004",
+                    "charge_level": "Misdemeanor",
+                    "sentence": "1 year suspended jail sentence, and $1000 fine or 100 hours community service"
+                },
+                {
+                    "offense_date": "December 17, 2004",
+                    "age_at_time_of_offense": "27",
+                    "charges": "Escape - Lawful Custody",
+                    "charges_filed_date": "Dec. 24, 2004",
+                    "crime_location": "Kent, Michigan",
+                    "offense_codes": ["750.197A"],
+                    "plea": "Not Guilty"
+                },
+                {
+                    "charges": "Battery",
+                    "offense_year": "2005",
+                    "charge_level": "Misdemeanor",
+                    "sentence": "90 days suspended jail sentence"
+                },
+                {
+                    "charges_filed_date": "September 9, 2010",
+                    "charges": "Felony theft, felony coercion, felony robbery, domestic battery and harassment (3 counts)",
+                    "charge_level": "Felony, Misdemeanor",
+                    "accuser": "Josie Harris",
+                    "arrest_date": "September 10, 2010",
+                    "bail": "$3000",
+                    "plea": "Guilty to misdemeanor battery in exchange for prosecutors dropping the felony battery charge, no contest to 2 counts of harassment",
+                    "sentence_date": "December 21, 2011",
+                    "sentence": "90 days in the county jail, 12-month domestic-violence program",
+                    "community_service": "100 hours",
+                    "fine": "$2500",
+                    "incarceration_date": "June 1, 2012",
+                    "release_date": "August 3, 2012"
                 }
             ],
+            "photo":"photos/FloydMayweather.jpg",
             "sources":[
-                "https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.#Domestic_violence_and_battery_convictions"
+                "Kent County - 61st District Court, Michigan",
+                "Wikipedia"
             ]
         },
         {
-            "name":"Mike Tyson",
+            "name":"Michael Gerard Tyson",
+            "aka":"Mike Tyson",
+            "dob": "June 30, 1966",
+            "height": "5' 10\"",
+            "crimes":[
+                {
+                    "arrest_date": "July 1991",
+                    "age_at_time_of_arrest": "25",
+                    "charges": "Rape",
+                    "victim": "Desiree Washington",
+                    "crime_location": "Indianapolis",
+                    "court": "Marion County Superior Court",
+                    "plea": "Not Guilty",
+                    "disposition_date": "February 10, 1992",
+                    "disposition": "Convicted",
+                    "sentence_date": "March 26, 1992",
+                    "sentence": "6 years in prison, 4 years of probation, required to register as a tier 2 sex offender",
+                    "facility": "Indiana Youth Center",
+                    "release_date": "March 1995"
+                },
+                {
+                    "offense_date": "August 31, 1998",
+                    "charges": "Assault",
+                    "charge_level": "Felony",
+                    "sentence_date": "February 5, 1999",
+                    "sentence": "1 year in prison, 2 years probation",
+                    "community_service": "200 hours",
+                    "fine": "$5000",
+                    "notes": "Assaulted 2 motorists after a traffic accident."
+                },
+                {
+                    "arrest_date": "December 29, 2006",
+                    "charges": "Possession of narcotics, Driving Under the Influence (DUI)",
+                    "charge_level": "Felony, Misdemeanor",
+                    "crime_location": "Scottsdale, Arizona",
+                    "plea_date": "January 22, 2007",
+                    "plea": "Not guilty",
+                    "court": "Maricopa County Superior Court",
+                    "community_service": "360 hours",
+                    "notes": "He nearly crashed into a police SUV shortly after leaving a nightclub. According to a police probable-cause statement, filed in Maricopa County Superior Court, \"Tyson admitted to using drugs today and stated he is an addict and has a problem.\" Tyson pleaded not guilty on January 22, 2007 in Maricopa County Superior Court to felony drug possession and paraphernalia possession counts and two misdemeanor counts of driving under the influence of drugs. On February 8 he checked himself into an inpatient treatment program for \"various addictions\" while awaiting trial on the drug charges."
+                }
+            ],
+            "photo":"photos/MikeTyson.jpg",
             "mugshot":"mugshots/MikeTyson.jpg",
+            "sources":[
+                "Wikipedia"
+            ]
+        },
+        {
+            "name":"Raymell Mourice Rice",
+            "aka":"Ray Rice",
+            "dob": "January 22, 1987",
+            "height": "5' 8\"",
             "crimes":[
                 {
-                    "crimeName":"Rape",
-                    "crimeDate":"",
-                    "chargeType":"felony",
-                    "sentence":"6 years",
-                    "crimeDescription":"Tyson was arrested in July 1991 for the rape of 18-year-old Desiree Washington, Miss Black Rhode Island, in an Indianapolis hotel room. Tyson's rape trial took place in the Marion County superior court from January 26 to February 10, 1992.",
-                    "numberOfAccusers":""
+                    "arrest_date": "February 15, 2014",
+                    "charges": "3rd Degree Assault",
+                    "crime_location": "Revel Casino  in Atlantic City, New Jersey",
+                    "case_number": "14000935",
+                    "indictment_date": "March 27, 2014",
+                    "outcome": "Charges dropped, Rice agreed to undergo court-supervised counseling",
+                    "notes":"Ray Rice and Janay Palmer were both highly intoxicated during the incident. Celebrity news website TMZ posted a video of Rice dragging Palmer out of an elevator after apparently knocking her out."
+                }
+            ],
+            "photo":"photos/RayRice.jpg",
+            "sources":[
+                "Admin Office Of Courts (New Jersey)",
+                "Wikipedia"
+            ]
+        },
+        {
+            "name":"Eldrick Tont Woods",
+            "aka":"Tiger Woods",
+            "dob": "December 30, 1975",
+            "height": "6' 1\"",
+            "crimes":[
+                {
+                    "arrest_date": "May 29, 2017",
+                    "charges": "Driving Under the Influence (DUI) of Alcohol or Drugs",
+                    "charge_level": "Misdemeanor",
+                    "offense_codes": ["316.193"],
+                    "arrest_location": "Jupiter, Florida",
+                    "arresting_agency": "Palm Beach County Sheriff's Office",
+                    "plea": "Not guilty to DUI, guilty to reckless driving",
+                    "sentence": "1 year probation, regular drug screening, no alcohol during probation",
+                    "fine": "$250",
+                    "community_service": "50 hours"
+                }
+            ],
+            "photo":"photos/TigerWoods.jpg",
+            "sources":[
+                "Arrest Log (Florida)",
+                "Wikipedia"
+            ]
+        },
+        {
+            "name": "Darren Mallory Sharper",
+            "aka": "Darren Sharper",
+            "known_for": "Former NFL player (star safety with the New Orleans Saints) and former broadcaster",
+            "dob": "November 3, 1975",
+            "height": "6' 2\"",
+            "crimes":[
+                {
+                    "offense_date": "November 21, 2013",
+                    "charged_filed_date": "March 11, 2014",
+                    "charges": "Dangerous Drug Violation, Sexual Assault (2 counts)",
+                    "charge_level": "Felony",
+                    "crime_location": "Maricopa, Arizona",
+                    "case_numbers": ["65744408", "2014001293"],
+                    "court": "Maricopa County Superior Court",
+                    "disposition_date": "March 23, 2015",
+                    "disposition": "Dangerous Drug Violation (Complaint Dismissed by Court), Sexual Assault (Guilty)",
+                    "sentence": "9 years",
+                    "incarceration_date": "Mar. 23, 2015",
+                    "release_date": "May. 25, 2024",
+                    "notes": "He suspected of raping 7 women in 4 states, all after offering them drinks laced with drugs, according to a court document submitted by a Los Angeles police officer investigating the case. The detective stated he suspected that Sharper also drugged additional people who accompanied these women, increasing the total suspected druggings to 11 cases combined since September.\n\nSo far he faces criminal charges only in Los Angeles — two counts of rape by use of drugs, four counts of furnishing illegal drugs and one count of illegal morphine possession, all felonies. The drug allegedly involved in the rape cases was zolpidem, a sedative allegedly delivered in drinks in separate incidents on Oct. 30 and Jan. 14. The other cases in Las Vegas, New Orleans and Tempe remain under investigation."
                 },
                 {
-                    "crimeName":"Assault",
-                    "crimeDate":"",
-                    "chargeType":"felony",
-                    "sentence":"1 year",
-                    "crimeDescription":"On February 5, 1999, Tyson was sentenced to a year's imprisonment, fined $5,000, and ordered to serve two years probation along with undergoing 200 hours of community service for assaulting two motorists after a traffic accident on August 31, 1998.",
-                    "numberOfAccusers":""
+                    "court": "Los Angeles County Superior Court",
+                    "sentence_date": "November 29, 2016",
+                    "sentence": "20 years in prison"
                 },
                 {
-                    "crimeName":"Posession of narcotics and DUI",
-                    "crimeDate":"",
-                    "chargeType":"felony",
-                    "sentence":"360 hours of community service",
-                    "crimeDescription":"On December 29, 2006, Tyson was arrested in Scottsdale, Arizona, on suspicion of DUI and felony drug possession; he nearly crashed into a police SUV shortly after leaving a nightclub. According to a police probable-cause statement, filed in Maricopa County Superior Court, \"Tyson admitted to using drugs today and stated he is an addict and has a problem.\" Tyson pleaded not guilty on January 22, 2007 in Maricopa County Superior Court to felony drug possession and paraphernalia possession counts and two misdemeanor counts of driving under the influence of drugs. On February 8 he checked himself into an inpatient treatment program for \"various addictions\" while awaiting trial on the drug charges.",
-                    "numberOfAccusers":""
+                    "charges_filed_date": "October 29, 2017",
+                    "charges": "1st degree rape, 2nd degree rape, 3rd degree rape",
+                    "crime_location": "Orleans, Louisiana",
+                    "case_number": "522819"
                 }
             ],
+            "photo":"photos/DarrenSharper.jpg",
             "sources":[
-                "https://en.wikipedia.org/wiki/Mike_Tyson"
-            ]
-        },
-        {
-            "name":"Ray Rice",
-            "mugshot":"mugshots/RayRice.jpg",
-            "crimes":[
-                {
-                    "crimeName":"Assault",
-                    "crimeDate":"2014",
-                    "chargeType":"",
-                    "sentence":"None",
-                    "crimeDescription":"On February 15, 2014, Rice and his then fiancée (now wife), Janay Palmer, were arrested and charged with assault after a physical altercation at the Revel Casino in Atlantic City, New Jersey. Rice and Palmer were both highly intoxicated during the incident. Celebrity news website TMZ posted a video of Rice dragging Palmer out of an elevator after apparently knocking her out.[27] The Ravens issued a statement following TMZ's release of the video, calling Rice's domestic violence arrest a \"serious matter\". The matter was handled by the Atlantic County Prosecutor's Office.",
-                    "numberOfAccusers":""
-                }
-            ],
-            "sources":[
-                "https://en.wikipedia.org/wiki/Ray_Rice#Domestic_violence_criminal_charges"
-            ]
-        },
-        {
-            "name":"Tiger Woods",
-            "mughsot":"mugshots/TigerWoods.jpg",
-            "crimes":[
-                {
-                    "crimeName":"DUI",
-                    "crimeDate":"2017",
-                    "chargeType":"misdemeanor",
-                    "crimeDescription":"On May 29, 2017, Woods was arrested near Jupiter, Florida by the Palm Beach County Sheriff's Office at about 3:00 am EDT for driving under the influence of alcohol or drugs. He was asleep in his car, which, although running, was stopped in a traffic lane. He later stated that he was taking drugs prescribed to him and did not realize how they might interact together. On July 3, 2017, Woods tweeted that he had completed an out of state intensive program to tackle an unspecified issue. On August 9, 2017, Woods, who skipped his arraignment, entered a not guilty plea through his attorney Douglas Duncan and agreed to take part in a first time DUI offender program and hold another arraignment on October 25. At a hearing on October 27, Woods pled guilty to reckless driving. He received a year of probation, was fined $250, and ordered to undergo 50 hours of community service along with regular drug tests, and was not allowed to drink alcohol during his time of probation. If he violated his probation, he would have been sentenced to 90 days in jail with an additional $500 fine.",
-                    "sentence":"1 year probation, $250 fine, 50 hours community service, regular drug screening, no alcohol during probation",
-                    "numberOfAccusers":""
-                }
-            ],
-            "sources":[
-                "https://en.wikipedia.org/wiki/Tiger_Woods"
-            ]
-        },
-        {
-            "name":"Darren Sharper",
-            "mugshot":"mugshots/DarrenSharper.jpg",
-            "crimes":[
-                {
-                    "crimeName":"rape",
-                    "crimeDate":"2014",
-                    "chargeType":"felony",
-                    "crimeDescription":" Former NFL player Darren Sharper has been charged with drugging and raping two women in California and also is suspected of doing the same to other women in Arizona, Nevada and Louisiana, according to the Los Angeles County District Attorney's office.\n\nSharper, once a star safety with the New Orleans Saints, is suspected of raping seven women in four states, all after offering them drinks laced with drugs, according to a court document submitted by a Los Angeles police officer investigating the case. The detective stated he suspected that Sharper also drugged additional people who accompanied these women, increasing the total suspected druggings to 11 cases combined since September.\n\nSo far he faces criminal charges only in Los Angeles — two counts of rape by use of drugs, four counts of furnishing illegal drugs and one count of illegal morphine possession, all felonies. The drug allegedly involved in the rape cases was zolpidem, a sedative allegedly delivered in drinks in separate incidents on Oct. 30 and Jan. 14. The other cases in Las Vegas, New Orleans and Tempe remain under investigation.",
-                    "sentence":"None",
-                    "numberOfAccusers":""
-                }
-            ],
-            "sources":[
+                "Admin Office Of Courts (Arizona)",
+                "Dept Of Corrections (Arizona)",
+                "Orleans Parish - District Court (Louisiana)",
                 "https://www.usatoday.com/story/sports/2014/02/14/darren-sharper-new-orleans-saints-california-rape-los-angeles/5486639/"
             ]
         },
         {
-            "name":"O.J. Simpson",
-            "mughsot":"mugshots/OjSimpson.jpg",
+            "name":"Orenthal James Simpson",
+            "aka":"O.J. Simpson",
+            "dob": "July 9, 1947",
+            "height": "6' 1\"",
             "crimes":[
                 {
-                    "crimeName":"Robbery",
-                    "crimeDate":"2007",
-                    "chargeType":"felony",
-                    "crimeDescription":"The O. J. Simpson robbery case (officially State of Nevada v. Orenthal James Simpson, et al.) was a criminal case prosecuted in 2007–2008 in the U.S. state of Nevada, primarily involving the retired American football player O. J. Simpson. On the night of September 13, 2007, a group of men led by Simpson entered a room in the Palace Station hotel in Las Vegas, Nevada. Bruce Fromong, a sports memorabilia dealer, testified that the group of men broke into his hotel room and stole various sports memorabilia at gunpoint. Three days later, on September 16, 2007, Simpson was arrested for his involvement in the robbery and held without bail. He admitted taking the items, which he said had been stolen from him, but denied breaking into the room. Simpson also denied the allegation that he or the people with him carried weapons.\n\nOn October 3, 2008—exactly 13 years to the day after he was acquitted of the murders of his ex-wife, Nicole Brown, and Ronald Goldman—Simpson was found guilty of all 10 charges. On December 5, 2008, Simpson was sentenced to 33 years in prison with eligibility for parole in nine years (in October 2017). On July 20, 2017, Simpson was granted parole, and was freed on October 1, 2017.",
-                    "sentence":"1 year probation, $250 fine, 50 hours community service, regular drug screening, no alcohol during probation",
-                    "numberOfAccusers":""
+                    "hearing_date": "July 22, 1994",
+                    "charges": "Murder 2nd Degree",
+                    "charge_level": "Criminal Felony",
+                    "crime_location": "Brentwood, Los Angeles, CA",
+                    "offense_codes": ["P 187.A"],
+                    "case_number": "097211",
+                    "victims": "Nicole Brown Simpson and Ron Goldman",
+                    "verdict": "Not guilty"
+                },
+                {
+                    "charge_level": "Civil lawsuit",
+                    "disposition_date": "February 5, 1997",
+                    "disposition": "Found liable for the wrongful death of and battery against Ron Goldman, and battery against Nicole Brown",
+                    "outcome": "Restitution in the amount of $33,500,000"
+                },
+                {
+                    "offense_date": "October 24, 2001",
+                    "age_at_time_of_offense": "54",
+                    "arrest_date": "February 9, 2001",
+                    "charges_filed_date": "February 12, 2001",
+                    "charges": "Burglary of an occupied conveyance, simple battery",
+                    "charge_level": "Felony, Misdemeanor",
+                    "crime_location": "Dade, Florida",
+                    "offense_codes": ["810.02(3)(D)"],
+                    "case_number": "F01004445",
+                    "disposition_date": "October 24, 2001",
+                    "disposition": "Acquitted by Jury"
+                },
+                {
+                    "offense_date": "September 13, 2007",
+                    "age_at_time_of_offense": "60",
+                    "charges": "Criminal conspiracy, kidnapping, assault, robbery, and using a deadly weapon",
+                    "charge_level": "Felony",
+                    "crime_location": "Palace Station hotel & casino, Las Vegas, NV",
+                    "accomplices": "Walter Alexander, Charles H. Cashmore, Michael McClinton",
+                    "arrest_date": "September 15, 2007",
+                    "bail": "$125,000",
+                    "plea_date": "November 29, 2007",
+                    "plea": "Not guilty",
+                    "disposition_date": "October 3, 2008",
+                    "disposition": "Guilty",
+                    "sentence_date": "December 5, 2008",
+                    "sentence": "33 years in prison with the possibility of parole after 9 years",
+                    "facility": "Lovelock Correctional Center",
+                    "prisoner_id": "1027820",
+                    "release_date": "October 1, 2017"
                 }
             ],
+            "mugshot":"mugshots/OjSimpson.jpg",
             "sources":[
-                "https://en.wikipedia.org/wiki/O._J._Simpson_robbery_case"
+                "Dade Court, Florida",
+                "Los Angeles County, CA",
+                "Wikipedia"
             ]
         }
     ]
